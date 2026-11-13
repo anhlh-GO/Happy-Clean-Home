@@ -1,0 +1,97 @@
+
+Christmas_04.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouti1
+  rotate: true
+  xy: 404, 1
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+chouti2
+  rotate: false
+  xy: 373, 88
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+chouyi3
+  rotate: false
+  xy: 137, 15
+  size: 97, 33
+  orig: 97, 33
+  offset: 0, 0
+  index: -1
+guiziyz@zpdd
+  rotate: true
+  xy: 373, 120
+  size: 129, 107
+  orig: 130, 110
+  offset: 1, 1
+  index: -1
+ken1
+  rotate: true
+  xy: 460, 63
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+ken2
+  rotate: false
+  xy: 1, 14
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+ken3
+  rotate: false
+  xy: 72, 14
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: true
+  xy: 373, 17
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+qian2
+  rotate: false
+  xy: 235, 21
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+sfyz@zpdd
+  rotate: true
+  xy: 247, 27
+  size: 232, 125
+  orig: 233, 127
+  offset: 1, 1
+  index: -1
+shafa
+  rotate: false
+  xy: 1, 260
+  size: 420, 235
+  orig: 420, 235
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 1, 49
+  size: 245, 210
+  orig: 247, 211
+  offset: 2, 0
+  index: -1
+zhuoziqian
+  rotate: true
+  xy: 422, 250
+  size: 245, 50
+  orig: 247, 51
+  offset: 2, 0
+  index: -1

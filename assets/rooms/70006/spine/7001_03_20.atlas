@@ -1,0 +1,202 @@
+
+7001_03_20.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1
+  rotate: false
+  xy: 0, 67
+  size: 31, 189
+  orig: 31, 189
+  offset: 0, 0
+  index: -1
+deng2-1
+  rotate: true
+  xy: 154, 69
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+deng2-2
+  rotate: true
+  xy: 0, 0
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+deng2-3
+  rotate: true
+  xy: 326, 152
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+deng2-4
+  rotate: true
+  xy: 163, 1
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+deng2-5
+  rotate: true
+  xy: 56, 12
+  size: 55, 167
+  orig: 55, 167
+  offset: 0, 0
+  index: -1
+deng2-6
+  rotate: true
+  xy: 187, 1
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+deng2-7
+  rotate: false
+  xy: 226, 92
+  size: 18, 164
+  orig: 18, 164
+  offset: 0, 0
+  index: -1
+deng2-8
+  rotate: false
+  xy: 245, 98
+  size: 30, 158
+  orig: 30, 158
+  offset: 0, 0
+  index: -1
+deng3-1
+  rotate: false
+  xy: 276, 148
+  size: 49, 108
+  orig: 49, 108
+  offset: 0, 0
+  index: -1
+deng3-2
+  rotate: true
+  xy: 0, 10
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+deng3-3
+  rotate: false
+  xy: 224, 0
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+deng3-4
+  rotate: true
+  xy: 112, 0
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+deng3-5
+  rotate: false
+  xy: 378, 117
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+deng3-6
+  rotate: true
+  xy: 137, 1
+  size: 10, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+deng3-7
+  rotate: true
+  xy: 276, 95
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+deng4
+  rotate: false
+  xy: 32, 68
+  size: 121, 188
+  orig: 121, 188
+  offset: 0, 0
+  index: -1
+deng5-1
+  rotate: true
+  xy: 189, 72
+  size: 12, 28
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+deng5-10
+  rotate: false
+  xy: 316, 1
+  size: 32, 93
+  orig: 32, 93
+  offset: 0, 0
+  index: -1
+deng5-2
+  rotate: true
+  xy: 56, 0
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+deng5-3
+  rotate: true
+  xy: 84, 0
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+deng5-4
+  rotate: false
+  xy: 362, 159
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+deng5-5
+  rotate: false
+  xy: 154, 85
+  size: 71, 171
+  orig: 71, 171
+  offset: 0, 0
+  index: -1
+deng5-6
+  rotate: false
+  xy: 349, 2
+  size: 20, 92
+  orig: 20, 92
+  offset: 0, 0
+  index: -1
+deng5-7
+  rotate: false
+  xy: 370, 18
+  size: 22, 76
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+deng5-8
+  rotate: false
+  xy: 326, 181
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+deng5-9
+  rotate: false
+  xy: 362, 206
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+deng@zpdd
+  rotate: true
+  xy: 383, 213
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1

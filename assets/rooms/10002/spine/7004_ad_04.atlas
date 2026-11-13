@@ -1,0 +1,20 @@
+
+7004_ad_04.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua11
+  rotate: true
+  xy: 1, 140
+  size: 177, 623
+  orig: 261, 623
+  offset: 0, 0
+  index: -1
+hua22
+  rotate: true
+  xy: 1, 1
+  size: 138, 434
+  orig: 261, 623
+  offset: 123, 62
+  index: -1

@@ -1,0 +1,13 @@
+
+RoomAsmr_01_03.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gai1
+  rotate: true
+  xy: 1, 1
+  size: 480, 965
+  orig: 1239, 1195
+  offset: 0, 121
+  index: -1

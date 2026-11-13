@@ -1,0 +1,160 @@
+
+7027_05_10.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_chugui_1
+  rotate: false
+  xy: 433, 51
+  size: 106, 58
+  orig: 108, 58
+  offset: 1, 0
+  index: -1
+5_chugui_2
+  rotate: true
+  xy: 493, 159
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+5_chuju_1
+  rotate: true
+  xy: 511, 140
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+5_chuju_2
+  rotate: true
+  xy: 520, 123
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+5_chuju_3
+  rotate: true
+  xy: 373, 0
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+5_chuju_4
+  rotate: true
+  xy: 391, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+5_chuju_5
+  rotate: false
+  xy: 286, 0
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+5_chuju_6
+  rotate: false
+  xy: 352, 0
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+5_diaodeng
+  rotate: false
+  xy: 0, 0
+  size: 84, 48
+  orig: 90, 107
+  offset: 6, 0
+  index: -1
+5_hua_1
+  rotate: false
+  xy: 493, 130
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+5_hua_2
+  rotate: false
+  xy: 535, 5
+  size: 43, 45
+  orig: 44, 45
+  offset: 1, 0
+  index: -1
+5_hua_3
+  rotate: true
+  xy: 493, 112
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+5_menkuang
+  rotate: true
+  xy: 281, 50
+  size: 206, 151
+  orig: 258, 214
+  offset: 52, 0
+  index: -1
+5_yizi_1
+  rotate: true
+  xy: 85, 6
+  size: 42, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+5_yizi_2
+  rotate: true
+  xy: 153, 6
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+5_yizi_3
+  rotate: true
+  xy: 286, 8
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+5_yizi_4
+  rotate: true
+  xy: 352, 10
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+5_yizi_5
+  rotate: true
+  xy: 476, 10
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+5_yizi_6
+  rotate: true
+  xy: 416, 9
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+5_yizi_7
+  rotate: true
+  xy: 221, 6
+  size: 42, 64
+  orig: 44, 64
+  offset: 1, 0
+  index: -1
+5_yy@zpdd
+  rotate: false
+  xy: 0, 49
+  size: 280, 207
+  orig: 280, 267
+  offset: 0, 60
+  index: -1
+5_zhuozi
+  rotate: true
+  xy: 433, 110
+  size: 146, 59
+  orig: 149, 62
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,153 @@
+
+7004_03_17.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basketF
+  rotate: false
+  xy: 912, 420
+  size: 629, 192
+  orig: 630, 192
+  offset: 0, 0
+  index: -1
+basket_back
+  rotate: false
+  xy: 949, 633
+  size: 325, 136
+  orig: 332, 139
+  offset: 4, 3
+  index: -1
+flower1
+  rotate: false
+  xy: 221, 216
+  size: 290, 268
+  orig: 324, 319
+  offset: 17, 26
+  index: -1
+flower2
+  rotate: false
+  xy: 1, 314
+  size: 219, 215
+  orig: 257, 331
+  offset: 19, 58
+  index: -1
+flower3
+  rotate: true
+  xy: 1542, 410
+  size: 202, 500
+  orig: 247, 560
+  offset: 22, 30
+  index: -1
+hhhqqqqqq
+  rotate: true
+  xy: 1924, 759
+  size: 67, 87
+  orig: 192, 325
+  offset: 32, 43
+  index: -1
+pumpink2
+  rotate: true
+  xy: 621, 454
+  size: 214, 290
+  orig: 214, 290
+  offset: 0, 0
+  index: -1
+pumpink3
+  rotate: true
+  xy: 344, 485
+  size: 196, 276
+  orig: 198, 278
+  offset: 2, 0
+  index: -1
+pumpink4
+  rotate: true
+  xy: 434, 707
+  size: 98, 114
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+pumpink5
+  rotate: true
+  xy: 325, 715
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+pumpink6
+  rotate: true
+  xy: 142, 721
+  size: 84, 182
+  orig: 84, 182
+  offset: 0, 0
+  index: -1
+pumpink8
+  rotate: true
+  xy: 763, 669
+  size: 136, 185
+  orig: 136, 185
+  offset: 0, 0
+  index: -1
+pumpkin1
+  rotate: true
+  xy: 549, 682
+  size: 123, 213
+  orig: 123, 213
+  offset: 0, 0
+  index: -1
+pumpkin1_shadow
+  rotate: false
+  xy: 1, 743
+  size: 140, 69
+  orig: 148, 86
+  offset: 0, 8
+  index: -1
+pumpkin2
+  rotate: true
+  xy: 1, 530
+  size: 184, 342
+  orig: 184, 342
+  offset: 0, 0
+  index: -1
+qqqqq@jx 
+  rotate: false
+  xy: 512, 99
+  size: 626, 320
+  orig: 630, 321
+  offset: 0, 1
+  index: -1
+railing1
+  rotate: true
+  xy: 1, 813
+  size: 13, 191
+  orig: 47, 222
+  offset: 17, 16
+  index: -1
+railingdown
+  rotate: false
+  xy: 193, 806
+  size: 864, 20
+  orig: 864, 22
+  offset: 0, 0
+  index: -1
+railingup
+  rotate: false
+  xy: 1058, 770
+  size: 865, 56
+  orig: 865, 56
+  offset: 0, 0
+  index: -1
+zzzzzzzz@zpdd
+  rotate: false
+  xy: 1275, 613
+  size: 638, 156
+  orig: 641, 167
+  offset: 3, 5
+  index: -1
+zzzzzzzzzzzzz@zpdd
+  rotate: false
+  xy: 1139, 1
+  size: 864, 408
+  orig: 864, 447
+  offset: 0, 0
+  index: -1

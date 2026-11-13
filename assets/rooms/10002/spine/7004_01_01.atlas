@@ -1,0 +1,300 @@
+
+7004_01_01.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-handrail2-1
+  rotate: false
+  xy: 1, 428
+  size: 478, 8
+  orig: 478, 8
+  offset: 0, 0
+  index: -1
+2-handrail2-2
+  rotate: false
+  xy: 431, 451
+  size: 461, 6
+  orig: 461, 6
+  offset: 0, 0
+  index: -1
+2-handrail2-3
+  rotate: false
+  xy: 379, 444
+  size: 461, 6
+  orig: 461, 6
+  offset: 0, 0
+  index: -1
+2-handrail2-5
+  rotate: false
+  xy: 55, 437
+  size: 461, 6
+  orig: 461, 6
+  offset: 0, 0
+  index: -1
+2-handrail3-1
+  rotate: true
+  xy: 893, 451
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-10
+  rotate: true
+  xy: 55, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-11
+  rotate: true
+  xy: 109, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-12
+  rotate: true
+  xy: 163, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-13
+  rotate: true
+  xy: 217, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-14
+  rotate: true
+  xy: 325, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-15
+  rotate: true
+  xy: 271, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-16
+  rotate: true
+  xy: 325, 452
+  size: 5, 52
+  orig: 5, 52
+  offset: 0, 0
+  index: -1
+2-handrail3-17
+  rotate: true
+  xy: 378, 452
+  size: 5, 52
+  orig: 5, 52
+  offset: 0, 0
+  index: -1
+2-handrail3-18
+  rotate: true
+  xy: 841, 444
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-19
+  rotate: true
+  xy: 895, 444
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-2
+  rotate: true
+  xy: 947, 451
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-20
+  rotate: true
+  xy: 949, 442
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-21
+  rotate: true
+  xy: 1, 438
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-3
+  rotate: true
+  xy: 1, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-4
+  rotate: true
+  xy: 55, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-5
+  rotate: true
+  xy: 109, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-6
+  rotate: true
+  xy: 163, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-7
+  rotate: true
+  xy: 217, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-8
+  rotate: true
+  xy: 1, 452
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+2-handrail3-9
+  rotate: true
+  xy: 271, 445
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+2beam1
+  rotate: true
+  xy: 480, 422
+  size: 13, 81
+  orig: 13, 81
+  offset: 0, 0
+  index: -1
+2beam2
+  rotate: true
+  xy: 935, 429
+  size: 12, 78
+  orig: 12, 78
+  offset: 0, 0
+  index: -1
+2crossbeam1
+  rotate: false
+  xy: 292, 280
+  size: 292, 84
+  orig: 292, 84
+  offset: 0, 0
+  index: -1
+2crossbeam2-1
+  rotate: false
+  xy: 539, 401
+  size: 470, 20
+  orig: 470, 20
+  offset: 0, 0
+  index: -1
+2crossbeam2-2
+  rotate: false
+  xy: 1, 411
+  size: 537, 10
+  orig: 537, 10
+  offset: 0, 0
+  index: -1
+2crossbeam3
+  rotate: false
+  xy: 1, 300
+  size: 290, 64
+  orig: 290, 64
+  offset: 0, 0
+  index: -1
+2crossbeam4
+  rotate: false
+  xy: 1, 365
+  size: 647, 35
+  orig: 647, 35
+  offset: 0, 0
+  index: -1
+2crossbeam4-shadow
+  rotate: false
+  xy: 1, 1
+  size: 691, 87
+  orig: 691, 87
+  offset: 0, 0
+  index: -1
+2pillar1
+  rotate: true
+  xy: 1, 89
+  size: 84, 668
+  orig: 84, 669
+  offset: 0, 1
+  index: -1
+2pillar2
+  rotate: true
+  xy: 1, 205
+  size: 74, 456
+  orig: 74, 457
+  offset: 0, 1
+  index: -1
+2pillar2-shadow1
+  rotate: true
+  xy: 1001, 449
+  size: 8, 17
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+2pillar3
+  rotate: true
+  xy: 458, 174
+  size: 83, 465
+  orig: 87, 466
+  offset: 3, 1
+  index: -1
+2railings1
+  rotate: true
+  xy: 649, 347
+  size: 53, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+2railings2
+  rotate: true
+  xy: 775, 258
+  size: 142, 185
+  orig: 142, 185
+  offset: 0, 0
+  index: -1
+yi1@zpdd
+  rotate: false
+  xy: 784, 435
+  size: 52, 8
+  orig: 54, 17
+  offset: 0, 5
+  index: -1
+yi2a@zpdd
+  rotate: false
+  xy: 837, 433
+  size: 97, 10
+  orig: 98, 12
+  offset: 1, 1
+  index: -1
+yi3@zpdd
+  rotate: false
+  xy: 517, 436
+  size: 266, 7
+  orig: 269, 9
+  offset: 2, 1
+  index: -1

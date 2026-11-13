@@ -1,0 +1,62 @@
+
+Vacuum_sweeper.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chesheng
+  rotate: false
+  xy: 1, 61
+  size: 380, 374
+  orig: 380, 374
+  offset: 0, 0
+  index: -1
+dong
+  rotate: false
+  xy: 1, 1
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 52, 3
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+lun
+  rotate: false
+  xy: 382, 165
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 382, 90
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 382, 24
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 52, 37
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 382, 245
+  size: 190, 81
+  orig: 190, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+7001_ad_01.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h
+  rotate: true
+  xy: 343, 118
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 343, 55
+  size: 59, 62
+  orig: 231, 226
+  offset: 85, 121
+  index: -1
+yy@zpdd
+  rotate: false
+  xy: 1, 1
+  size: 192, 224
+  orig: 291, 402
+  offset: 41, 48
+  index: -1
+zy
+  rotate: false
+  xy: 194, 29
+  size: 148, 196
+  orig: 231, 244
+  offset: 41, 9
+  index: -1

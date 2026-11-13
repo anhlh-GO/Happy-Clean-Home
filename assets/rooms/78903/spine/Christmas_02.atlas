@@ -1,0 +1,62 @@
+
+Christmas_02.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bili
+  rotate: true
+  xy: 473, 38
+  size: 197, 437
+  orig: 197, 437
+  offset: 0, 0
+  index: -1
+chuanghu
+  rotate: true
+  xy: 1, 19
+  size: 216, 471
+  orig: 216, 473
+  offset: 0, 1
+  index: -1
+chyz@zpdd
+  rotate: false
+  xy: 911, 1
+  size: 111, 234
+  orig: 111, 236
+  offset: 0, 1
+  index: -1
+xuehua1
+  rotate: true
+  xy: 581, 13
+  size: 24, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+xuehua2
+  rotate: true
+  xy: 683, 20
+  size: 17, 85
+  orig: 17, 85
+  offset: 0, 0
+  index: -1
+xuehua3
+  rotate: true
+  xy: 473, 13
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+xuehua4
+  rotate: true
+  xy: 531, 13
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+xuehua5
+  rotate: true
+  xy: 609, 19
+  size: 18, 73
+  orig: 18, 73
+  offset: 0, 0
+  index: -1

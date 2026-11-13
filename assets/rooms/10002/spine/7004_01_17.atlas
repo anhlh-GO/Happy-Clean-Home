@@ -1,0 +1,55 @@
+
+7004_01_17.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle1
+  rotate: true
+  xy: 188, 166
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+bottle1_light
+  rotate: false
+  xy: 129, 90
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+bottle1_y
+  rotate: false
+  xy: 1, 1
+  size: 232, 88
+  orig: 232, 88
+  offset: 0, 0
+  index: -1
+bottle2
+  rotate: true
+  xy: 1, 141
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+bottle2_y
+  rotate: false
+  xy: 90, 169
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+candle
+  rotate: true
+  xy: 51, 127
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+candle_y
+  rotate: false
+  xy: 1, 170
+  size: 88, 23
+  orig: 88, 23
+  offset: 0, 0
+  index: -1

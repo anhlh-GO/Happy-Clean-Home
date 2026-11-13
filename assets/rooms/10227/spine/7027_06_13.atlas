@@ -1,0 +1,279 @@
+
+7027_06_13.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hashiqi_04
+  rotate: false
+  xy: 884, 4
+  size: 146, 74
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_06
+  rotate: false
+  xy: 1031, 3
+  size: 147, 74
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_08
+  rotate: false
+  xy: 740, 80
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_10
+  rotate: false
+  xy: 888, 79
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_12
+  rotate: false
+  xy: 1676, 150
+  size: 146, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_14
+  rotate: false
+  xy: 1823, 150
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_16
+  rotate: false
+  xy: 0, 84
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_18
+  rotate: false
+  xy: 1036, 78
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_20
+  rotate: false
+  xy: 1184, 77
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_22
+  rotate: false
+  xy: 1332, 77
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_24
+  rotate: false
+  xy: 148, 83
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_26
+  rotate: false
+  xy: 296, 82
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_28
+  rotate: false
+  xy: 1480, 77
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_30
+  rotate: false
+  xy: 1628, 76
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_32
+  rotate: false
+  xy: 1776, 76
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_34
+  rotate: false
+  xy: 0, 10
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_36
+  rotate: false
+  xy: 148, 9
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_38
+  rotate: false
+  xy: 1179, 2
+  size: 145, 74
+  orig: 180, 102
+  offset: 31, 15
+  index: -1
+hashiqi_40
+  rotate: false
+  xy: 449, 7
+  size: 138, 74
+  orig: 180, 102
+  offset: 38, 15
+  index: -1
+hashiqi_42
+  rotate: true
+  xy: 1971, 87
+  size: 135, 75
+  orig: 180, 102
+  offset: 41, 15
+  index: -1
+hashiqi_44
+  rotate: false
+  xy: 1652, 0
+  size: 139, 75
+  orig: 180, 102
+  offset: 37, 15
+  index: -1
+hashiqi_46
+  rotate: false
+  xy: 1325, 2
+  size: 170, 74
+  orig: 180, 102
+  offset: 6, 15
+  index: -1
+hashiqi_48
+  rotate: false
+  xy: 1496, 1
+  size: 155, 74
+  orig: 180, 102
+  offset: 21, 15
+  index: -1
+hashiqi_50
+  rotate: false
+  xy: 296, 8
+  size: 152, 73
+  orig: 180, 102
+  offset: 24, 15
+  index: -1
+hashiqi_52
+  rotate: false
+  xy: 1219, 151
+  size: 160, 71
+  orig: 180, 102
+  offset: 16, 15
+  index: -1
+hashiqi_54
+  rotate: false
+  xy: 604, 154
+  size: 166, 68
+  orig: 180, 102
+  offset: 10, 15
+  index: -1
+hashiqi_56
+  rotate: false
+  xy: 298, 155
+  size: 156, 67
+  orig: 180, 102
+  offset: 20, 15
+  index: -1
+hashiqi_58
+  rotate: false
+  xy: 0, 157
+  size: 148, 65
+  orig: 180, 102
+  offset: 28, 15
+  index: -1
+hashiqi_60
+  rotate: false
+  xy: 149, 156
+  size: 148, 66
+  orig: 180, 102
+  offset: 28, 15
+  index: -1
+hashiqi_62
+  rotate: false
+  xy: 455, 155
+  size: 148, 67
+  orig: 180, 102
+  offset: 28, 15
+  index: -1
+hashiqi_64
+  rotate: false
+  xy: 771, 154
+  size: 149, 68
+  orig: 180, 102
+  offset: 27, 15
+  index: -1
+hashiqi_66
+  rotate: false
+  xy: 921, 153
+  size: 148, 69
+  orig: 180, 102
+  offset: 28, 15
+  index: -1
+hashiqi_68
+  rotate: false
+  xy: 1070, 152
+  size: 148, 70
+  orig: 180, 102
+  offset: 28, 15
+  index: -1
+hashiqi_70
+  rotate: false
+  xy: 1380, 151
+  size: 147, 71
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_72
+  rotate: false
+  xy: 1528, 151
+  size: 147, 71
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_74
+  rotate: false
+  xy: 444, 82
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_76
+  rotate: false
+  xy: 592, 81
+  size: 147, 72
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_78
+  rotate: false
+  xy: 588, 7
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1
+hashiqi_80
+  rotate: false
+  xy: 736, 6
+  size: 147, 73
+  orig: 180, 102
+  offset: 29, 15
+  index: -1

@@ -1,0 +1,48 @@
+
+7004_06_05.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditan
+  rotate: false
+  xy: 551, 1
+  size: 682, 189
+  orig: 682, 189
+  offset: 0, 0
+  index: -1
+ditan1
+  rotate: false
+  xy: 1, 171
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+ditan2
+  rotate: false
+  xy: 53, 171
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+ditan3
+  rotate: false
+  xy: 105, 171
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+ditan4
+  rotate: false
+  xy: 157, 171
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+yy@zpdd
+  rotate: false
+  xy: 209, 95
+  size: 341, 95
+  orig: 341, 95
+  offset: 0, 0
+  index: -1

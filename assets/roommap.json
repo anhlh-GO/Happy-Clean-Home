@@ -1,0 +1,3028 @@
+[
+    {
+        "id": 1001,
+        "group": 1001,
+        "roomIds": [
+            79027
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -80,
+            150
+        ],
+        "nodeXOffset": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 1002,
+        "group": 1001,
+        "roomIds": [
+            70026
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -30,
+            150
+        ]
+    },
+    {
+        "id": 1003,
+        "group": 1001,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 1004,
+        "group": 1001,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            19,
+            112
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 1005,
+        "group": 1001,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            17,
+            102
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 1006,
+        "group": 1001,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            6,
+            108
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 1007,
+        "group": 1001,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            40,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 1008,
+        "group": 1001,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            5,
+            137
+        ],
+        "nodeXOffset": [
+            -82,
+            69
+        ],
+        "nodeYOffset": [
+            -15,
+            16
+        ]
+    },
+    {
+        "id": 1009,
+        "group": 1001,
+        "roomIds": [
+            70002,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -13,
+            161
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 1010,
+        "group": 1001,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 1011,
+        "group": 1001,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 1012,
+        "group": 1001,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1013,
+        "group": 1001,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 1014,
+        "group": 1001,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 1015,
+        "group": 1001,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 1016,
+        "group": 1001,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 1017,
+        "group": 1001,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 1018,
+        "group": 1001,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 1019,
+        "group": 1001,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 1020,
+        "group": 1001,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 1021,
+        "group": 1001,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 1022,
+        "group": 1001,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 1023,
+        "group": 1001,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 101,
+        "group": 1001,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 15,
+        "newHeadIcon": 15,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    },
+    {
+        "id": 2001,
+        "group": 1002,
+        "roomIds": [
+            79916
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 2002,
+        "group": 1002,
+        "roomIds": [
+            70026
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 2003,
+        "group": 1002,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 2004,
+        "group": 1002,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 2005,
+        "group": 1002,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 2006,
+        "group": 1002,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 2007,
+        "group": 1002,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 2008,
+        "group": 1002,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -63,
+            81
+        ],
+        "nodeYOffset": [
+            33,
+            51
+        ]
+    },
+    {
+        "id": 2009,
+        "group": 1002,
+        "roomIds": [
+            70002,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 2010,
+        "group": 1002,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 2011,
+        "group": 1002,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 2012,
+        "group": 1002,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 2013,
+        "group": 1002,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 2014,
+        "group": 1002,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 2015,
+        "group": 1002,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 2016,
+        "group": 1002,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 2017,
+        "group": 1002,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 2018,
+        "group": 1002,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 2019,
+        "group": 1002,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 2020,
+        "group": 1002,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 2021,
+        "group": 1002,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 2022,
+        "group": 1002,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 2023,
+        "group": 1002,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 2016,
+        "group": 1002,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 2,
+        "newHeadIcon": 2,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    },
+    {
+        "id": 3001,
+        "group": 1003,
+        "roomIds": [
+            10027
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -80,
+            150
+        ],
+        "nodeXOffset": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 3002,
+        "group": 1003,
+        "roomIds": [
+            70026
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -30,
+            150
+        ]
+    },
+    {
+        "id": 3003,
+        "group": 1003,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 3004,
+        "group": 1003,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            19,
+            112
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 3005,
+        "group": 1003,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            17,
+            102
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 3006,
+        "group": 1003,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            6,
+            108
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 3007,
+        "group": 1003,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            40,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 3008,
+        "group": 1003,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            5,
+            137
+        ],
+        "nodeXOffset": [
+            -82,
+            69
+        ],
+        "nodeYOffset": [
+            -15,
+            16
+        ]
+    },
+    {
+        "id": 3009,
+        "group": 1003,
+        "roomIds": [
+            70002,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -13,
+            161
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 3010,
+        "group": 1003,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 3011,
+        "group": 1003,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 3012,
+        "group": 1003,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 3013,
+        "group": 1003,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 3014,
+        "group": 1003,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 3015,
+        "group": 1003,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 3016,
+        "group": 1003,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 3017,
+        "group": 1003,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 3018,
+        "group": 1003,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 3019,
+        "group": 1003,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 3020,
+        "group": 1003,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 3021,
+        "group": 1003,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 3022,
+        "group": 1003,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 3023,
+        "group": 1003,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 301,
+        "group": 1003,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 15,
+        "newHeadIcon": 15,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    },
+    {
+        "id": 4001,
+        "group": 1004,
+        "roomIds": [
+            10127
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -80,
+            150
+        ],
+        "nodeXOffset": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 4002,
+        "group": 1004,
+        "roomIds": [
+            70026
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -30,
+            150
+        ]
+    },
+    {
+        "id": 4003,
+        "group": 1004,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 4004,
+        "group": 1004,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            19,
+            112
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 4005,
+        "group": 1004,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            17,
+            102
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 4006,
+        "group": 1004,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            6,
+            108
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 4007,
+        "group": 1004,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            40,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 4008,
+        "group": 1004,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            5,
+            137
+        ],
+        "nodeXOffset": [
+            -82,
+            69
+        ],
+        "nodeYOffset": [
+            -15,
+            16
+        ]
+    },
+    {
+        "id": 4009,
+        "group": 1004,
+        "roomIds": [
+            70002,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -13,
+            161
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 4010,
+        "group": 1004,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 4011,
+        "group": 1004,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 4012,
+        "group": 1004,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 4013,
+        "group": 1004,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 4014,
+        "group": 1004,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 4015,
+        "group": 1004,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 4016,
+        "group": 1004,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 4017,
+        "group": 1004,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 4018,
+        "group": 1004,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 4019,
+        "group": 1004,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 4020,
+        "group": 1004,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 4021,
+        "group": 1004,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 4022,
+        "group": 1004,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 4023,
+        "group": 1004,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 401,
+        "group": 1004,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 15,
+        "newHeadIcon": 15,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    },
+    {
+        "id": 5001,
+        "group": 1005,
+        "roomIds": [
+            10127
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -80,
+            150
+        ],
+        "nodeXOffset": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 5002,
+        "group": 1005,
+        "roomIds": [
+            10002
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -30,
+            150
+        ]
+    },
+    {
+        "id": 5003,
+        "group": 1005,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 5004,
+        "group": 1005,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            19,
+            112
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 5005,
+        "group": 1005,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            17,
+            102
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 5006,
+        "group": 1005,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            6,
+            108
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 5007,
+        "group": 1005,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            40,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 5008,
+        "group": 1005,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            5,
+            137
+        ],
+        "nodeXOffset": [
+            -82,
+            69
+        ],
+        "nodeYOffset": [
+            -15,
+            16
+        ]
+    },
+    {
+        "id": 5009,
+        "group": 1005,
+        "roomIds": [
+            10026,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -13,
+            161
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 5010,
+        "group": 1005,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 5011,
+        "group": 1005,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 5012,
+        "group": 1005,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 5013,
+        "group": 1005,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 5014,
+        "group": 1005,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 5015,
+        "group": 1005,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 5016,
+        "group": 1005,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 5017,
+        "group": 1005,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 5018,
+        "group": 1005,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 5019,
+        "group": 1005,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 5020,
+        "group": 1005,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 5021,
+        "group": 1005,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 5022,
+        "group": 1005,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 5023,
+        "group": 1005,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 501,
+        "group": 1005,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 15,
+        "newHeadIcon": 15,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    },
+    {
+        "id": 6001,
+        "group": 1006,
+        "roomIds": [
+            10227
+        ],
+        "node": "BrownBigRoom1",
+        "headIcon": 13,
+        "newHeadIcon": 20,
+        "bubbleOffset": [
+            -80,
+            150
+        ],
+        "nodeXOffset": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 6002,
+        "group": 1006,
+        "roomIds": [
+            10002
+        ],
+        "node": "BrownSmallRoom3",
+        "headIcon": 9,
+        "newHeadIcon": 22,
+        "bubbleOffset": [
+            -30,
+            150
+        ]
+    },
+    {
+        "id": 6003,
+        "group": 1006,
+        "roomIds": [
+            70006,
+            70037
+        ],
+        "node": "RedBigRoom2",
+        "headIcon": 4,
+        "newHeadIcon": 23,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -104,
+            66
+        ],
+        "nodeYOffset": [
+            -13,
+            -13
+        ]
+    },
+    {
+        "id": 6004,
+        "group": 1006,
+        "roomIds": [
+            70003,
+            70004
+        ],
+        "node": "PurpleBigRoom2",
+        "headIcon": 8,
+        "newHeadIcon": 24,
+        "bubbleOffset": [
+            19,
+            112
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 6005,
+        "group": 1006,
+        "roomIds": [
+            70015,
+            70009
+        ],
+        "node": "BlueSmallRoom2",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            17,
+            102
+        ],
+        "nodeXOffset": [
+            -68,
+            64
+        ],
+        "nodeYOffset": [
+            -14,
+            -14
+        ]
+    },
+    {
+        "id": 6006,
+        "group": 1006,
+        "roomIds": [
+            70030,
+            70014
+        ],
+        "node": "BrownSmallRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            6,
+            108
+        ],
+        "nodeXOffset": [
+            -56,
+            84
+        ],
+        "nodeYOffset": [
+            -25,
+            13
+        ]
+    },
+    {
+        "id": 6007,
+        "group": 1006,
+        "roomIds": [
+            70010,
+            70013
+        ],
+        "node": "BlueBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 28,
+        "bubbleOffset": [
+            40,
+            150
+        ],
+        "nodeXOffset": [
+            -60,
+            107
+        ],
+        "nodeYOffset": [
+            12,
+            -38
+        ]
+    },
+    {
+        "id": 6008,
+        "group": 1006,
+        "roomIds": [
+            70029,
+            70031
+        ],
+        "node": "BrownSmallRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            5,
+            137
+        ],
+        "nodeXOffset": [
+            -82,
+            69
+        ],
+        "nodeYOffset": [
+            -15,
+            16
+        ]
+    },
+    {
+        "id": 6009,
+        "group": 1006,
+        "roomIds": [
+            10026,
+            70018
+        ],
+        "node": "GreenBigRoom1",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -13,
+            161
+        ],
+        "nodeXOffset": [
+            -81,
+            49
+        ],
+        "nodeYOffset": [
+            -25,
+            -68
+        ]
+    },
+    {
+        "id": 6010,
+        "group": 1006,
+        "roomIds": [
+            70024,
+            70012
+        ],
+        "node": "OrangeSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -5,
+            107
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 6011,
+        "group": 1006,
+        "roomIds": [
+            70035,
+            70007
+        ],
+        "node": "RedBigRoom1",
+        "headIcon": 18,
+        "newHeadIcon": 33,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 6012,
+        "group": 1006,
+        "roomIds": [
+            70001,
+            70011
+        ],
+        "node": "YellowSmallRoom1",
+        "headIcon": 34,
+        "newHeadIcon": 34,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -2,
+            138.2
+        ],
+        "nodeYOffset": [
+            0,
+            0
+        ]
+    },
+    {
+        "id": 6013,
+        "group": 1006,
+        "roomIds": [
+            70032,
+            70020
+        ],
+        "node": "GreenSmallRoom1",
+        "headIcon": 7,
+        "newHeadIcon": 7,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -55,
+            98
+        ],
+        "nodeYOffset": [
+            -34,
+            -34
+        ]
+    },
+    {
+        "id": 6014,
+        "group": 1006,
+        "roomIds": [
+            70019,
+            70023
+        ],
+        "node": "PurpleBigRoom1",
+        "headIcon": 6,
+        "newHeadIcon": 6,
+        "bubbleOffset": [
+            32,
+            179
+        ],
+        "nodeXOffset": [
+            -48,
+            147
+        ],
+        "nodeYOffset": [
+            6,
+            6
+        ]
+    },
+    {
+        "id": 6015,
+        "group": 1006,
+        "roomIds": [
+            70041,
+            70016
+        ],
+        "node": "BlueSmallRoom1",
+        "headIcon": 4,
+        "newHeadIcon": 4,
+        "bubbleOffset": [
+            0,
+            150
+        ],
+        "nodeXOffset": [
+            -54,
+            88
+        ],
+        "nodeYOffset": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": 6016,
+        "group": 1006,
+        "roomIds": [
+            70044,
+            70043
+        ],
+        "node": "RedSmallRoom1",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 6017,
+        "group": 1006,
+        "roomIds": [
+            70017,
+            70045
+        ],
+        "node": "PurpleSmallRoom1",
+        "headIcon": 1,
+        "newHeadIcon": 25,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -97,
+            62
+        ],
+        "nodeYOffset": [
+            24,
+            24
+        ]
+    },
+    {
+        "id": 6018,
+        "group": 1006,
+        "roomIds": [
+            70070,
+            70042
+        ],
+        "node": "GreenBigRoom2",
+        "headIcon": 14,
+        "newHeadIcon": 26,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 6019,
+        "group": 1006,
+        "roomIds": [
+            70048,
+            70051
+        ],
+        "node": "OrangeBigRoom1",
+        "headIcon": 12,
+        "newHeadIcon": 29,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 6020,
+        "group": 1006,
+        "roomIds": [
+            70050,
+            70052
+        ],
+        "node": "OrangeBigRoom2",
+        "headIcon": 2,
+        "newHeadIcon": 30,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 6021,
+        "group": 1006,
+        "roomIds": [
+            70028,
+            70033
+        ],
+        "node": "PurpleBigRoom3",
+        "headIcon": 17,
+        "newHeadIcon": 31,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "nodeXOffset": [
+            -101,
+            76
+        ],
+        "nodeYOffset": [
+            35,
+            35
+        ]
+    },
+    {
+        "id": 6022,
+        "group": 1006,
+        "roomIds": [
+            9000
+        ],
+        "node": "BlueBigRoom2",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 6023,
+        "group": 1006,
+        "node": "PinkBigRoom1",
+        "bubbleOffset": [
+            -15,
+            150
+        ]
+    },
+    {
+        "id": 601,
+        "group": 1006,
+        "roomIds": [
+            78903
+        ],
+        "node": "ChristmasRoom",
+        "headIcon": 15,
+        "newHeadIcon": 15,
+        "bubbleOffset": [
+            -15,
+            150
+        ],
+        "isActivityRoom": true
+    }
+]

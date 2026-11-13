@@ -1,0 +1,174 @@
+
+7004_05_07.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lz1
+  rotate: true
+  xy: 919, 139
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+lz10
+  rotate: false
+  xy: 766, 131
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+lz11
+  rotate: false
+  xy: 525, 102
+  size: 122, 153
+  orig: 122, 153
+  offset: 0, 0
+  index: -1
+lz2
+  rotate: false
+  xy: 643, 4
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+lz3
+  rotate: false
+  xy: 708, 8
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+lz4
+  rotate: false
+  xy: 590, 7
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+lz5
+  rotate: true
+  xy: 906, 83
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+lz6
+  rotate: false
+  xy: 642, 42
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+lz7
+  rotate: true
+  xy: 889, 2
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+lz8
+  rotate: false
+  xy: 525, 33
+  size: 116, 68
+  orig: 116, 69
+  offset: 0, 0
+  index: -1
+lz9
+  rotate: false
+  xy: 648, 116
+  size: 102, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+p1
+  rotate: true
+  xy: 731, 216
+  size: 39, 34
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+p10
+  rotate: true
+  xy: 872, 134
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+p11
+  rotate: true
+  xy: 872, 186
+  size: 69, 65
+  orig: 69, 66
+  offset: 0, 1
+  index: -1
+p2
+  rotate: false
+  xy: 525, 1
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+p3
+  rotate: true
+  xy: 731, 175
+  size: 40, 32
+  orig: 41, 34
+  offset: 1, 1
+  index: -1
+p4
+  rotate: false
+  xy: 938, 214
+  size: 37, 41
+  orig: 37, 42
+  offset: 0, 1
+  index: -1
+p5
+  rotate: true
+  xy: 939, 41
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+p6
+  rotate: true
+  xy: 1, 1
+  size: 19, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+p7
+  rotate: false
+  xy: 648, 174
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+p8
+  rotate: true
+  xy: 838, 61
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+p9
+  rotate: true
+  xy: 766, 56
+  size: 74, 71
+  orig: 74, 72
+  offset: 0, 1
+  index: -1
+yy2_@zpdd
+  rotate: false
+  xy: 1, 21
+  size: 523, 234
+  orig: 530, 242
+  offset: 6, 3
+  index: -1
+yy_@zpdd
+  rotate: false
+  xy: 779, 13
+  size: 109, 42
+  orig: 113, 44
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+7001_01_14.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daliang@zpdd
+  rotate: true
+  xy: 620, 11
+  size: 127, 290
+  orig: 127, 332
+  offset: 0, 42
+  index: -1
+dalianga
+  rotate: true
+  xy: 1, 1
+  size: 137, 618
+  orig: 137, 618
+  offset: 0, 0
+  index: -1

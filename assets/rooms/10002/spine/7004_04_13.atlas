@@ -1,0 +1,34 @@
+
+7004_04_13.webp
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yy_@zpdd
+  rotate: false
+  xy: 47, 31
+  size: 81, 32
+  orig: 87, 36
+  offset: 3, 2
+  index: -1
+zd1
+  rotate: true
+  xy: 47, 1
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+zd2
+  rotate: false
+  xy: 1, 2
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+zd3
+  rotate: false
+  xy: 129, 9
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1

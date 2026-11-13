@@ -1,0 +1,76 @@
+
+RoomAsmr_02.webp
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spray
+  rotate: false
+  xy: 2572, 510
+  size: 75, 200
+  orig: 75, 200
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 1, 421
+  size: 865, 1721
+  orig: 865, 1721
+  offset: 0, 0
+  index: -1
+g_1
+  rotate: false
+  xy: 2690, 614
+  size: 573, 672
+  orig: 573, 672
+  offset: 0, 0
+  index: -1
+g_2
+  rotate: true
+  xy: 2572, 1
+  size: 508, 785
+  orig: 508, 785
+  offset: 0, 0
+  index: -1
+g_3
+  rotate: true
+  xy: 1723, 80
+  size: 630, 559
+  orig: 630, 559
+  offset: 0, 0
+  index: -1
+g_4
+  rotate: true
+  xy: 1723, 711
+  size: 575, 966
+  orig: 575, 966
+  offset: 0, 0
+  index: -1
+g_5
+  rotate: true
+  xy: 3264, 756
+  size: 530, 637
+  orig: 530, 637
+  offset: 0, 0
+  index: -1
+potion_atomizing
+  rotate: true
+  xy: 2283, 387
+  size: 323, 288
+  orig: 323, 288
+  offset: 0, 0
+  index: -1
+pp1
+  rotate: false
+  xy: 3264, 685
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+pp2
+  rotate: true
+  xy: 3344, 689
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1

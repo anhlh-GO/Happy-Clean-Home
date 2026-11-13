@@ -1,0 +1,90 @@
+
+7001_01_20.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chain
+  rotate: true
+  xy: 0, 207
+  size: 11, 170
+  orig: 11, 170
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 171, 207
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+lanp
+  rotate: false
+  xy: 0, 0
+  size: 175, 130
+  orig: 175, 130
+  offset: 0, 0
+  index: -1
+light01
+  rotate: true
+  xy: 52, 131
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+light02
+  rotate: true
+  xy: 107, 131
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+light03
+  rotate: true
+  xy: 0, 136
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+light04
+  rotate: true
+  xy: 175, 152
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+light05
+  rotate: true
+  xy: 0, 174
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+light06
+  rotate: true
+  xy: 44, 174
+  size: 32, 42
+  orig: 32, 43
+  offset: 0, 1
+  index: -1
+light07
+  rotate: true
+  xy: 87, 172
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+pedestal
+  rotate: false
+  xy: 195, 189
+  size: 31, 29
+  orig: 44, 34
+  offset: 3, 0
+  index: -1
+pedestal@zpdd
+  rotate: false
+  xy: 133, 172
+  size: 41, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1

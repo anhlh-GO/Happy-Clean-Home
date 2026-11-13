@@ -1,0 +1,48 @@
+
+Christmas_23.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+23_1
+  rotate: true
+  xy: 336, 81
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+23_2
+  rotate: true
+  xy: 237, 82
+  size: 54, 98
+  orig: 54, 98
+  offset: 0, 0
+  index: -1
+23_3
+  rotate: true
+  xy: 1, 95
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+23_4
+  rotate: true
+  xy: 146, 85
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+23_5
+  rotate: true
+  xy: 75, 94
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+yz@zpdd
+  rotate: false
+  xy: 1, 1
+  size: 401, 79
+  orig: 402, 81
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+7004_01_14.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light1
+  rotate: false
+  xy: 1, 1
+  size: 124, 225
+  orig: 124, 225
+  offset: 0, 0
+  index: -1
+light1_chain
+  rotate: false
+  xy: 126, 90
+  size: 45, 136
+  orig: 45, 136
+  offset: 0, 0
+  index: -1
+yy_@zpdd
+  rotate: true
+  xy: 126, 36
+  size: 53, 39
+  orig: 56, 43
+  offset: 2, 2
+  index: -1

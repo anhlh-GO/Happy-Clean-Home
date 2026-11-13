@@ -1,0 +1,27 @@
+
+7004_02_12.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuti1
+  rotate: false
+  xy: 1, 36
+  size: 117, 56
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+wuti2
+  rotate: false
+  xy: 141, 19
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+yy@zpdd
+  rotate: false
+  xy: 1, 1
+  size: 139, 34
+  orig: 144, 37
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+Christmas_21.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hutaojiazi_r
+  rotate: true
+  xy: 1, 1
+  size: 48, 178
+  orig: 48, 178
+  offset: 0, 0
+  index: -1
+ryz@zpdd
+  rotate: true
+  xy: 1, 50
+  size: 64, 182
+  orig: 68, 185
+  offset: 3, 1
+  index: -1

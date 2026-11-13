@@ -1,0 +1,48 @@
+
+RoomAsmr_03.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xz_1
+  rotate: true
+  xy: 896, 139
+  size: 300, 299
+  orig: 300, 301
+  offset: 0, 0
+  index: -1
+xz_2
+  rotate: false
+  xy: 1, 12
+  size: 213, 427
+  orig: 213, 427
+  offset: 0, 0
+  index: -1
+xz_3
+  rotate: true
+  xy: 303, 101
+  size: 338, 592
+  orig: 356, 592
+  offset: 18, 0
+  index: -1
+yyy_1
+  rotate: false
+  xy: 503, 16
+  size: 247, 84
+  orig: 259, 113
+  offset: 2, 11
+  index: -1
+yyy_2
+  rotate: true
+  xy: 215, 94
+  size: 345, 87
+  orig: 349, 90
+  offset: 1, 1
+  index: -1
+yyy_3
+  rotate: false
+  xy: 215, 1
+  size: 287, 92
+  orig: 289, 96
+  offset: 2, 4
+  index: -1

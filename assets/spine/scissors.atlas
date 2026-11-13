@@ -1,0 +1,20 @@
+
+scissors.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scissor1
+  rotate: false
+  xy: 854, 31
+  size: 337, 1029
+  orig: 337, 1029
+  offset: 0, 0
+  index: -1
+scissor2
+  rotate: false
+  xy: 1, 1
+  size: 852, 1059
+  orig: 852, 1059
+  offset: 0, 0
+  index: -1

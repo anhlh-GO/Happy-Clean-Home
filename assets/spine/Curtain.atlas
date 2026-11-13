@@ -1,0 +1,20 @@
+
+Curtain.webp
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanglian
+  rotate: true
+  xy: 1, 1
+  size: 1730, 2790
+  orig: 1730, 2790
+  offset: 0, 0
+  index: -1
+hand_shou_chuanglian
+  rotate: false
+  xy: 2792, 977
+  size: 420, 754
+  orig: 422, 756
+  offset: 1, 1
+  index: -1

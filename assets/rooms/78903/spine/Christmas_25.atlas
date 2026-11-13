@@ -1,0 +1,20 @@
+
+Christmas_25.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deer
+  rotate: true
+  xy: 1, 1
+  size: 129, 264
+  orig: 129, 264
+  offset: 0, 0
+  index: -1
+yz@zpdd
+  rotate: true
+  xy: 266, 16
+  size: 114, 48
+  orig: 115, 49
+  offset: 0, 0
+  index: -1

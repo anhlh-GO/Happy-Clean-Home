@@ -1,0 +1,146 @@
+
+7027_06_05.webp
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_6@jx
+  rotate: false
+  xy: 561, 1
+  size: 266, 188
+  orig: 271, 190
+  offset: 1, 1
+  index: -1
+6_6_1
+  rotate: false
+  xy: 867, 202
+  size: 79, 25
+  orig: 79, 27
+  offset: 0, 1
+  index: -1
+6_6_2
+  rotate: false
+  xy: 977, 265
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+6_6_3
+  rotate: true
+  xy: 1060, 449
+  size: 61, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+6_6_4
+  rotate: true
+  xy: 1035, 334
+  size: 70, 45
+  orig: 71, 46
+  offset: 0, 1
+  index: -1
+6_6_5
+  rotate: true
+  xy: 1021, 192
+  size: 72, 74
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+6_6_6
+  rotate: true
+  xy: 1052, 271
+  size: 62, 56
+  orig: 63, 57
+  offset: 1, 1
+  index: -1
+6_6_7
+  rotate: false
+  xy: 947, 194
+  size: 73, 66
+  orig: 74, 68
+  offset: 0, 1
+  index: -1
+6_6_8
+  rotate: false
+  xy: 828, 43
+  size: 249, 147
+  orig: 252, 152
+  offset: 2, 2
+  index: -1
+6_6_di@jx
+  rotate: true
+  xy: 276, 168
+  size: 342, 166
+  orig: 344, 168
+  offset: 1, 1
+  index: -1
+6_6_yy@zpdd
+  rotate: true
+  xy: 905, 261
+  size: 249, 71
+  orig: 259, 75
+  offset: 1, 1
+  index: -1
+F@jx
+  rotate: true
+  xy: 1, 20
+  size: 490, 274
+  orig: 490, 274
+  offset: 0, 0
+  index: -1
+S1@zpdd
+  rotate: true
+  xy: 669, 190
+  size: 320, 142
+  orig: 320, 144
+  offset: 0, 1
+  index: -1
+S2@zpdd
+  rotate: true
+  xy: 812, 228
+  size: 282, 92
+  orig: 288, 107
+  offset: 1, 8
+  index: -1
+bed1
+  rotate: true
+  xy: 443, 190
+  size: 320, 225
+  orig: 320, 225
+  offset: 0, 0
+  index: -1
+bed2
+  rotate: false
+  xy: 276, 19
+  size: 284, 148
+  orig: 288, 148
+  offset: 4, 0
+  index: -1
+blanket1
+  rotate: true
+  xy: 977, 316
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+blanket2
+  rotate: false
+  xy: 812, 191
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 828, 19
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+table
+  rotate: true
+  xy: 977, 405
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1

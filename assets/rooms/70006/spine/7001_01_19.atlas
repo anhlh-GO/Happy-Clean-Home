@@ -1,0 +1,153 @@
+
+7001_01_19.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biandeng
+  rotate: false
+  xy: 473, 372
+  size: 36, 140
+  orig: 36, 140
+  offset: 0, 0
+  index: -1
+dang2
+  rotate: true
+  xy: 669, 452
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+pen
+  rotate: true
+  xy: 510, 401
+  size: 66, 65
+  orig: 69, 70
+  offset: 2, 4
+  index: -1
+yez1
+  rotate: true
+  xy: 510, 468
+  size: 44, 104
+  orig: 44, 104
+  offset: 0, 0
+  index: -1
+yez2
+  rotate: true
+  xy: 705, 22
+  size: 83, 154
+  orig: 83, 154
+  offset: 0, 0
+  index: -1
+yez3
+  rotate: true
+  xy: 208, 0
+  size: 69, 237
+  orig: 69, 237
+  offset: 0, 0
+  index: -1
+yez4
+  rotate: true
+  xy: 0, 2
+  size: 58, 207
+  orig: 58, 207
+  offset: 0, 0
+  index: -1
+yez5
+  rotate: true
+  xy: 446, 6
+  size: 70, 149
+  orig: 70, 149
+  offset: 0, 0
+  index: -1
+yez6
+  rotate: true
+  xy: 596, 14
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+yizi1@zpdd
+  rotate: true
+  xy: 644, 270
+  size: 98, 54
+  orig: 99, 56
+  offset: 0, 1
+  index: -1
+yizi2@zpdd
+  rotate: false
+  xy: 627, 369
+  size: 41, 143
+  orig: 41, 144
+  offset: 0, 1
+  index: -1
+yizi3@zpdd
+  rotate: false
+  xy: 803, 165
+  size: 114, 156
+  orig: 114, 156
+  offset: 0, 0
+  index: -1
+yizi@zpdd
+  rotate: false
+  xy: 473, 217
+  size: 170, 151
+  orig: 178, 162
+  offset: 0, 0
+  index: -1
+zhiwu1
+  rotate: false
+  xy: 576, 389
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+zhiwu2
+  rotate: false
+  xy: 644, 218
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+zls01
+  rotate: false
+  xy: 0, 61
+  size: 206, 451
+  orig: 206, 451
+  offset: 0, 0
+  index: -1
+zls02
+  rotate: true
+  xy: 627, 106
+  size: 110, 175
+  orig: 110, 175
+  offset: 0, 0
+  index: -1
+zls03
+  rotate: true
+  xy: 207, 212
+  size: 300, 265
+  orig: 300, 265
+  offset: 0, 0
+  index: -1
+zls04
+  rotate: false
+  xy: 416, 77
+  size: 210, 134
+  orig: 210, 134
+  offset: 0, 0
+  index: -1
+zls05
+  rotate: true
+  xy: 207, 70
+  size: 141, 208
+  orig: 141, 208
+  offset: 0, 0
+  index: -1
+zls06
+  rotate: false
+  xy: 705, 322
+  size: 195, 190
+  orig: 195, 190
+  offset: 0, 0
+  index: -1

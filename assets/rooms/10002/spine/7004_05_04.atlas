@@ -1,0 +1,146 @@
+
+7004_05_04.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang1
+  rotate: true
+  xy: 1289, 223
+  size: 32, 321
+  orig: 34, 323
+  offset: 1, 1
+  index: -1
+chuang2
+  rotate: true
+  xy: 469, 171
+  size: 47, 406
+  orig: 49, 408
+  offset: 1, 1
+  index: -1
+chuang2yy@jx
+  rotate: true
+  xy: 1, 94
+  size: 161, 467
+  orig: 163, 470
+  offset: 1, 1
+  index: -1
+chuang3
+  rotate: true
+  xy: 1, 45
+  size: 48, 467
+  orig: 50, 469
+  offset: 1, 1
+  index: -1
+chuang4
+  rotate: true
+  xy: 920, 200
+  size: 55, 368
+  orig: 57, 370
+  offset: 1, 1
+  index: -1
+qiang0
+  rotate: true
+  xy: 1, 4
+  size: 40, 358
+  orig: 42, 360
+  offset: 1, 1
+  index: -1
+qiang1
+  rotate: true
+  xy: 469, 1
+  size: 169, 180
+  orig: 171, 182
+  offset: 1, 1
+  index: -1
+qiang10
+  rotate: false
+  xy: 1627, 146
+  size: 172, 109
+  orig: 174, 111
+  offset: 1, 1
+  index: -1
+qiang11
+  rotate: true
+  xy: 1161, 28
+  size: 171, 131
+  orig: 173, 133
+  offset: 1, 1
+  index: -1
+qiang12
+  rotate: false
+  xy: 650, 15
+  size: 170, 155
+  orig: 172, 157
+  offset: 1, 1
+  index: -1
+qiang13
+  rotate: false
+  xy: 989, 22
+  size: 171, 177
+  orig: 181, 179
+  offset: 9, 1
+  index: -1
+qiang2
+  rotate: false
+  xy: 821, 13
+  size: 167, 157
+  orig: 169, 159
+  offset: 1, 1
+  index: -1
+qiang3
+  rotate: false
+  xy: 1293, 87
+  size: 166, 135
+  orig: 168, 137
+  offset: 1, 1
+  index: -1
+qiang4
+  rotate: false
+  xy: 1460, 109
+  size: 166, 113
+  orig: 168, 115
+  offset: 1, 1
+  index: -1
+qiang5
+  rotate: false
+  xy: 1800, 163
+  size: 166, 92
+  orig: 168, 94
+  offset: 1, 1
+  index: -1
+qiang6
+  rotate: false
+  xy: 1293, 15
+  size: 166, 71
+  orig: 168, 73
+  offset: 1, 1
+  index: -1
+qiang7
+  rotate: false
+  xy: 1629, 20
+  size: 167, 58
+  orig: 169, 60
+  offset: 1, 1
+  index: -1
+qiang8
+  rotate: false
+  xy: 1629, 79
+  size: 168, 66
+  orig: 170, 68
+  offset: 1, 1
+  index: -1
+qiang9
+  rotate: false
+  xy: 1460, 21
+  size: 168, 87
+  orig: 170, 89
+  offset: 1, 1
+  index: -1
+qiangyy@zpdd
+  rotate: true
+  xy: 469, 219
+  size: 36, 450
+  orig: 42, 455
+  offset: 3, 3
+  index: -1

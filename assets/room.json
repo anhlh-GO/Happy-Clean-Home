@@ -1,0 +1,1110 @@
+[
+    {
+        "id": 79027,
+        "roomResId": 79027,
+        "isComingSoon": false,
+        "roomName": "UI_map_name27",
+        "rewardId": [
+            1102,
+            200101,
+            2202
+        ],
+        "rewardNum": [
+            1,
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_27",
+        "storyPos": [
+            2,
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "id": 10027,
+        "roomResId": 10027,
+        "isComingSoon": false,
+        "roomName": "UI_map_name27",
+        "rewardId": [
+            1102,
+            200101,
+            2202
+        ],
+        "rewardNum": [
+            1,
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_27",
+        "storyPos": [
+            2,
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "id": 10127,
+        "roomResId": 10127,
+        "isComingSoon": false,
+        "roomName": "UI_map_name27",
+        "rewardId": [
+            1102,
+            200101,
+            2202
+        ],
+        "rewardNum": [
+            1,
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_27",
+        "storyPos": [
+            2,
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "id": 79916,
+        "roomResId": 79916,
+        "isComingSoon": false,
+        "roomName": "UI_map_name9916",
+        "rewardId": [
+            1102,
+            200101,
+            2202
+        ],
+        "rewardNum": [
+            1,
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_9916",
+        "storyPos": [
+            3,
+            6,
+            10,
+            15
+        ]
+    },
+    {
+        "id": 70001,
+        "roomResId": 70001,
+        "isComingSoon": false,
+        "roomName": "UI_map_name1",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_01",
+        "storyPos": [
+            3,
+            6,
+            9,
+            12
+        ]
+    },
+    {
+        "id": 70002,
+        "roomResId": 70002,
+        "isComingSoon": false,
+        "roomName": "UI_map_name2",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_02",
+        "storyPos": [
+            3,
+            7,
+            11,
+            15
+        ]
+    },
+    {
+        "id": 70003,
+        "roomResId": 70003,
+        "isComingSoon": false,
+        "roomName": "UI_map_name3",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_03",
+        "storyPos": [
+            3,
+            7,
+            11,
+            15
+        ]
+    },
+    {
+        "id": 70004,
+        "roomResId": 70004,
+        "isComingSoon": false,
+        "roomName": "UI_map_name4",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_04",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70005,
+        "roomResId": 70005,
+        "isComingSoon": false,
+        "roomName": "UI_map_name5",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_05",
+        "storyPos": [
+            2,
+            5,
+            6,
+            13
+        ]
+    },
+    {
+        "id": 70006,
+        "roomResId": 70006,
+        "isComingSoon": false,
+        "roomName": "UI_map_name6",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_06",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70007,
+        "roomResId": 70007,
+        "isComingSoon": false,
+        "roomName": "UI_map_name8",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_07",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70008,
+        "roomResId": 70008,
+        "isComingSoon": false,
+        "roomName": "UI_map_name5",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_08",
+        "storyPos": [
+            2,
+            5,
+            6,
+            16
+        ]
+    },
+    {
+        "id": 70009,
+        "roomResId": 70009,
+        "isComingSoon": false,
+        "roomName": "UI_map_name9",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_09",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70010,
+        "roomResId": 70010,
+        "isComingSoon": false,
+        "roomName": "UI_map_name10",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_10",
+        "storyPos": [
+            4,
+            9,
+            14,
+            19
+        ]
+    },
+    {
+        "id": 70011,
+        "roomResId": 70011,
+        "isComingSoon": false,
+        "roomName": "UI_map_name11",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_11",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70012,
+        "roomResId": 70012,
+        "isComingSoon": false,
+        "roomName": "UI_map_name12",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_12",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70013,
+        "roomResId": 70013,
+        "isComingSoon": false,
+        "roomName": "UI_map_name13",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_13",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70014,
+        "roomResId": 70014,
+        "isComingSoon": false,
+        "roomName": "UI_map_name14",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_14",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70015,
+        "roomResId": 70015,
+        "isComingSoon": false,
+        "roomName": "UI_map_name15",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_15",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70017,
+        "roomResId": 70017,
+        "isComingSoon": false,
+        "roomName": "UI_map_name17",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_17"
+    },
+    {
+        "id": 70018,
+        "roomResId": 70018,
+        "isComingSoon": false,
+        "roomName": "UI_map_name18",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_18",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70019,
+        "roomResId": 70019,
+        "isComingSoon": false,
+        "roomName": "UI_map_name19",
+        "rewardId": [
+            2202,
+            1101
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_19"
+    },
+    {
+        "id": 70020,
+        "roomResId": 70020,
+        "isComingSoon": false,
+        "roomName": "UI_map_name20",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_20"
+    },
+    {
+        "id": 70021,
+        "roomResId": 70021,
+        "isComingSoon": false,
+        "roomName": "UI_map_name21",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_21",
+        "storyPos": [
+            2,
+            5,
+            6,
+            28
+        ]
+    },
+    {
+        "id": 70022,
+        "roomResId": 70022,
+        "isComingSoon": false,
+        "roomName": "UI_map_name22",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_22",
+        "storyPos": [
+            2,
+            5,
+            6,
+            29
+        ]
+    },
+    {
+        "id": 70023,
+        "roomResId": 70023,
+        "isComingSoon": false,
+        "roomName": "UI_map_name23",
+        "rewardId": [
+            2202,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_23"
+    },
+    {
+        "id": 70024,
+        "roomResId": 70024,
+        "isComingSoon": false,
+        "roomName": "UI_map_name24",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_24",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70026,
+        "roomResId": 70026,
+        "isComingSoon": false,
+        "roomName": "UI_map_name26",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_26",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70027,
+        "roomResId": 70027,
+        "isComingSoon": false,
+        "roomName": "UI_map_name27",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_27",
+        "storyPos": [
+            2,
+            5,
+            6,
+            33
+        ]
+    },
+    {
+        "id": 70029,
+        "roomResId": 70029,
+        "isComingSoon": false,
+        "roomName": "UI_map_name29",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_29",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70030,
+        "roomResId": 70030,
+        "isComingSoon": false,
+        "roomName": "UI_map_name30",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_30",
+        "storyPos": [
+            5,
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": 70031,
+        "roomResId": 70031,
+        "isComingSoon": false,
+        "roomName": "UI_map_name31",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_31",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70034,
+        "roomResId": 70034,
+        "isComingSoon": false,
+        "roomName": "UI_map_name34",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_34",
+        "storyPos": [
+            2,
+            5,
+            6,
+            37
+        ]
+    },
+    {
+        "id": 70037,
+        "roomResId": 70037,
+        "isComingSoon": false,
+        "roomName": "UI_map_name37",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_37",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 79016,
+        "roomResId": 79016,
+        "isComingSoon": false,
+        "roomName": "UI_map_name16",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            200,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_16",
+        "storyPos": [
+            2,
+            5,
+            6,
+            39
+        ]
+    },
+    {
+        "id": 9000,
+        "roomResId": 9000,
+        "isComingSoon": true,
+        "roomName": "UI_map_name21",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_21",
+        "storyPos": [
+            2,
+            5,
+            6,
+            40
+        ]
+    },
+    {
+        "id": 78902,
+        "roomResId": 78902,
+        "isComingSoon": false,
+        "roomName": "UI_map_name_happy_1",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            200,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_78902",
+        "storyPos": [
+            2,
+            5,
+            6,
+            41
+        ]
+    },
+    {
+        "id": 78903,
+        "roomResId": 78903,
+        "isComingSoon": false,
+        "roomName": "UI_map_name18_xmas",
+        "rewardId": [
+            101,
+            201
+        ],
+        "rewardNum": [
+            500,
+            50
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_christmas",
+        "storyPos": [
+            2,
+            5,
+            6,
+            42
+        ]
+    },
+    {
+        "id": 10002,
+        "roomResId": 10002,
+        "isComingSoon": false,
+        "roomName": "UI_map_name26",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_02",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 10026,
+        "roomResId": 10026,
+        "isComingSoon": false,
+        "roomName": "UI_map_name2",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_26",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 70035,
+        "roomResId": 70035,
+        "isComingSoon": false,
+        "roomName": "UI_map_name35",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_35",
+        "storyPos": [
+            4,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "id": 10227,
+        "roomResId": 10227,
+        "isComingSoon": false,
+        "roomName": "UI_map_name27",
+        "rewardId": [
+            1102,
+            200101,
+            2202
+        ],
+        "rewardNum": [
+            1,
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_27",
+        "storyPos": [
+            2,
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "id": 70032,
+        "roomResId": 70032,
+        "isComingSoon": false,
+        "roomName": "UI_Map_Name_70032",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_32"
+    },
+    {
+        "id": 70041,
+        "roomResId": 70041,
+        "isComingSoon": false,
+        "roomName": "UI_Map_Name_70041",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_41"
+    },
+    {
+        "id": 70016,
+        "roomResId": 70016,
+        "isComingSoon": false,
+        "roomName": "UI_map_name16",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_16"
+    },
+    {
+        "id": 70044,
+        "roomResId": 70044,
+        "isComingSoon": false,
+        "roomName": "UI_map_name44",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_44"
+    },
+    {
+        "id": 70043,
+        "roomResId": 70043,
+        "isComingSoon": false,
+        "roomName": "UI_map_name43",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_43"
+    },
+    {
+        "id": 70045,
+        "roomResId": 70045,
+        "isComingSoon": false,
+        "roomName": "UI_map_name45",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_45"
+    },
+    {
+        "id": 70070,
+        "roomResId": 70070,
+        "isComingSoon": false,
+        "roomName": "UI_map_name70",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_70"
+    },
+    {
+        "id": 70042,
+        "roomResId": 70042,
+        "isComingSoon": false,
+        "roomName": "UI_map_name42",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_42"
+    },
+    {
+        "id": 70048,
+        "roomResId": 70048,
+        "isComingSoon": false,
+        "roomName": "UI_map_name48",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_48"
+    },
+    {
+        "id": 70051,
+        "roomResId": 70051,
+        "isComingSoon": false,
+        "roomName": "UI_map_name51",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_51"
+    },
+    {
+        "id": 70050,
+        "roomResId": 70050,
+        "isComingSoon": false,
+        "roomName": "UI_map_name50",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_50"
+    },
+    {
+        "id": 70052,
+        "roomResId": 70052,
+        "isComingSoon": false,
+        "roomName": "UI_map_name52",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_52"
+    },
+    {
+        "id": 70028,
+        "roomResId": 70028,
+        "isComingSoon": false,
+        "roomName": "UI_map_name28",
+        "rewardId": [
+            1102
+        ],
+        "rewardNum": [
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_28"
+    },
+    {
+        "id": 70033,
+        "roomResId": 70033,
+        "isComingSoon": false,
+        "roomName": "UI_map_name33",
+        "rewardId": [
+            1101,
+            1201
+        ],
+        "rewardNum": [
+            1,
+            1
+        ],
+        "soundId": 1,
+        "mapImgComplete": "ui_home_chooseroom_icon_normal_33"
+    }
+]

@@ -1,0 +1,34 @@
+
+7004_02_15.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding
+  rotate: true
+  xy: 287, 1
+  size: 56, 27
+  orig: 58, 29
+  offset: 1, 1
+  index: -1
+fengshan
+  rotate: false
+  xy: 1, 20
+  size: 285, 100
+  orig: 285, 100
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 1, 8
+  size: 11, 209
+  orig: 11, 209
+  offset: 0, 0
+  index: -1
+yy@zpdd
+  rotate: true
+  xy: 287, 58
+  size: 62, 30
+  orig: 64, 32
+  offset: 1, 1
+  index: -1

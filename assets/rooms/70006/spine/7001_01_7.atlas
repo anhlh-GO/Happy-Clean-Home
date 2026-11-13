@@ -1,0 +1,97 @@
+
+7001_01_7.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_pillow1
+  rotate: false
+  xy: 707, 311
+  size: 131, 75
+  orig: 131, 75
+  offset: 0, 0
+  index: -1
+L_pillow2
+  rotate: false
+  xy: 0, 0
+  size: 125, 70
+  orig: 125, 80
+  offset: 0, 6
+  index: -1
+R_pillow1
+  rotate: false
+  xy: 330, 3
+  size: 144, 93
+  orig: 144, 93
+  offset: 0, 0
+  index: -1
+R_pillow2
+  rotate: true
+  xy: 907, 367
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: -1
+blanket
+  rotate: true
+  xy: 506, 102
+  size: 408, 172
+  orig: 408, 172
+  offset: 0, 0
+  index: -1
+blanket_shadow
+  rotate: true
+  xy: 330, 97
+  size: 413, 175
+  orig: 413, 175
+  offset: 0, 0
+  index: -1
+dang1
+  rotate: false
+  xy: 167, 2
+  size: 47, 6
+  orig: 50, 6
+  offset: 0, 0
+  index: -1
+dang2
+  rotate: true
+  xy: 579, 1
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+dang3
+  rotate: true
+  xy: 475, 10
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+quilt
+  rotate: true
+  xy: 0, 71
+  size: 439, 329
+  orig: 439, 329
+  offset: 0, 0
+  index: -1
+yizi1@zpdd
+  rotate: false
+  xy: 707, 387
+  size: 199, 123
+  orig: 199, 123
+  offset: 0, 0
+  index: -1
+yizi2@zpdd
+  rotate: true
+  xy: 126, 1
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+yizi3@zpdd
+  rotate: true
+  xy: 167, 9
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1

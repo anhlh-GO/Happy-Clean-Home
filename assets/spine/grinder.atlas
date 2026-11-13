@@ -1,0 +1,34 @@
+
+grinder.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hanmian
+  rotate: false
+  xy: 1348, 546
+  size: 398, 406
+  orig: 398, 406
+  offset: 0, 0
+  index: -1
+jiqi
+  rotate: true
+  xy: 712, 1
+  size: 296, 857
+  orig: 296, 857
+  offset: 0, 0
+  index: -1
+ppp2
+  rotate: false
+  xy: 1, 181
+  size: 710, 771
+  orig: 710, 771
+  offset: 0, 0
+  index: -1
+pppp
+  rotate: false
+  xy: 712, 298
+  size: 635, 654
+  orig: 635, 654
+  offset: 0, 0
+  index: -1

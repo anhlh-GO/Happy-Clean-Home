@@ -1,0 +1,13 @@
+
+7027_C_TY.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuya
+  rotate: false
+  xy: 1, 1
+  size: 457, 248
+  orig: 458, 248
+  offset: 1, 0
+  index: -1

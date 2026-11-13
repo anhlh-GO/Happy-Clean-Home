@@ -1,0 +1,160 @@
+
+7027_01_05.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_6@jx
+  rotate: false
+  xy: 430, 589
+  size: 239, 129
+  orig: 239, 129
+  offset: 0, 0
+  index: -1
+1_6_1
+  rotate: true
+  xy: 632, 729
+  size: 56, 46
+  orig: 57, 47
+  offset: 0, 1
+  index: -1
+1_6_2
+  rotate: true
+  xy: 434, 258
+  size: 50, 47
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+1_6_3
+  rotate: true
+  xy: 482, 252
+  size: 56, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+1_6_4
+  rotate: true
+  xy: 524, 260
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+1_6_5
+  rotate: false
+  xy: 579, 732
+  size: 52, 53
+  orig: 52, 55
+  offset: 0, 1
+  index: -1
+1_6_6
+  rotate: true
+  xy: 252, 3
+  size: 60, 56
+  orig: 61, 58
+  offset: 0, 2
+  index: -1
+1_6_7
+  rotate: false
+  xy: 430, 542
+  size: 58, 46
+  orig: 59, 49
+  offset: 0, 2
+  index: -1
+1_6_8
+  rotate: false
+  xy: 559, 551
+  size: 36, 37
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+1_6_9
+  rotate: true
+  xy: 579, 786
+  size: 234, 120
+  orig: 234, 120
+  offset: 0, 0
+  index: -1
+1_6_di@jx
+  rotate: false
+  xy: 1, 542
+  size: 428, 478
+  orig: 431, 545
+  offset: 1, 2
+  index: -1
+F@jx
+  rotate: true
+  xy: 1, 64
+  size: 477, 270
+  orig: 477, 597
+  offset: 0, 0
+  index: -1
+basket
+  rotate: false
+  xy: 541, 1
+  size: 121, 86
+  orig: 121, 86
+  offset: 0, 0
+  index: -1
+basket@zpdd
+  rotate: false
+  xy: 1, 5
+  size: 136, 58
+  orig: 144, 66
+  offset: 3, 3
+  index: -1
+bed1
+  rotate: true
+  xy: 430, 719
+  size: 301, 148
+  orig: 301, 148
+  offset: 0, 0
+  index: -1
+bed2
+  rotate: true
+  xy: 538, 314
+  size: 236, 91
+  orig: 236, 91
+  offset: 0, 0
+  index: -1
+pillow1
+  rotate: false
+  xy: 138, 7
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+pillow2
+  rotate: false
+  xy: 489, 551
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+seat1
+  rotate: true
+  xy: 272, 242
+  size: 299, 161
+  orig: 299, 161
+  offset: 0, 0
+  index: -1
+seat2
+  rotate: true
+  xy: 434, 309
+  size: 232, 103
+  orig: 232, 103
+  offset: 0, 0
+  index: -1
+shadow1@zpdd
+  rotate: false
+  xy: 272, 88
+  size: 300, 153
+  orig: 306, 173
+  offset: 0, 6
+  index: -1
+shadow2@zpdd
+  rotate: false
+  xy: 309, 2
+  size: 231, 85
+  orig: 236, 97
+  offset: 1, 7
+  index: -1

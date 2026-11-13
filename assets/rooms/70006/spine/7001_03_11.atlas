@@ -1,0 +1,48 @@
+
+7001_03_11.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhen01
+  rotate: true
+  xy: 207, 0
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+baozhen01@zpdd
+  rotate: false
+  xy: 325, 42
+  size: 44, 37
+  orig: 45, 39
+  offset: 0, 2
+  index: -1
+baozhen02
+  rotate: true
+  xy: 331, 80
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+baozhen02@zpdd
+  rotate: true
+  xy: 280, 28
+  size: 57, 44
+  orig: 59, 47
+  offset: 1, 1
+  index: -1
+yizi
+  rotate: true
+  xy: 0, 21
+  size: 162, 206
+  orig: 163, 206
+  offset: 1, 0
+  index: -1
+yizi@zpdd
+  rotate: false
+  xy: 207, 86
+  size: 123, 97
+  orig: 128, 103
+  offset: 1, 4
+  index: -1

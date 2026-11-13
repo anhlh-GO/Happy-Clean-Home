@@ -1,0 +1,34 @@
+
+7001_01_11.webp
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shafa-L
+  rotate: true
+  xy: 0, 0
+  size: 126, 219
+  orig: 126, 219
+  offset: 0, 0
+  index: -1
+shafa@zpdd
+  rotate: false
+  xy: 220, 2
+  size: 190, 124
+  orig: 195, 124
+  offset: 1, 0
+  index: -1
+shafadian-L
+  rotate: true
+  xy: 511, 30
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+shafadian-L-y
+  rotate: true
+  xy: 411, 23
+  size: 103, 99
+  orig: 111, 119
+  offset: 4, 4
+  index: -1

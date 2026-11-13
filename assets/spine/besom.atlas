@@ -1,0 +1,13 @@
+
+besom.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaoba
+  rotate: true
+  xy: 1, 1
+  size: 457, 979
+  orig: 457, 979
+  offset: 0, 0
+  index: -1

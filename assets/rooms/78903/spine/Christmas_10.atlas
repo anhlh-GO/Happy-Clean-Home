@@ -1,0 +1,41 @@
+
+Christmas_10.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fankuang
+  rotate: true
+  xy: 526, 136
+  size: 31, 401
+  orig: 58, 401
+  offset: 0, 0
+  index: -1
+gan
+  rotate: false
+  xy: 526, 117
+  size: 329, 18
+  orig: 331, 25
+  offset: 2, 0
+  index: -1
+lian_l
+  rotate: true
+  xy: 1, 74
+  size: 93, 524
+  orig: 93, 524
+  offset: 0, 0
+  index: -1
+lian_r
+  rotate: true
+  xy: 1, 28
+  size: 45, 671
+  orig: 45, 671
+  offset: 0, 0
+  index: -1
+图层 39 拷贝 8
+  rotate: true
+  xy: 1, 1
+  size: 26, 658
+  orig: 26, 658
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+7004_03_10.webp
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 478, 10
+  size: 146, 49
+  orig: 148, 51
+  offset: 1, 1
+  index: -1
+ding
+  rotate: false
+  xy: 625, 35
+  size: 10, 24
+  orig: 12, 26
+  offset: 1, 1
+  index: -1
+hua1
+  rotate: false
+  xy: 1, 1
+  size: 156, 58
+  orig: 156, 58
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: true
+  xy: 158, 18
+  size: 41, 162
+  orig: 41, 162
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: true
+  xy: 321, 27
+  size: 32, 156
+  orig: 35, 156
+  offset: 3, 0
+  index: -1
+zhuangshi1
+  rotate: true
+  xy: 158, 1
+  size: 16, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1

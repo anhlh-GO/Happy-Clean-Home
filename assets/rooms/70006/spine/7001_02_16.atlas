@@ -1,0 +1,62 @@
+
+7001_02_16.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam-01
+  rotate: true
+  xy: 279, 103
+  size: 288, 18
+  orig: 288, 18
+  offset: 0, 0
+  index: -1
+beam-02
+  rotate: false
+  xy: 322, 127
+  size: 15, 264
+  orig: 15, 264
+  offset: 0, 0
+  index: -1
+beam-03
+  rotate: true
+  xy: 312, 118
+  size: 273, 9
+  orig: 273, 9
+  offset: 0, 0
+  index: -1
+beam-04
+  rotate: false
+  xy: 338, 125
+  size: 9, 266
+  orig: 9, 266
+  offset: 0, 0
+  index: -1
+beam-05
+  rotate: true
+  xy: 298, 99
+  size: 292, 13
+  orig: 292, 13
+  offset: 0, 0
+  index: -1
+window-01
+  rotate: false
+  xy: 1, 1
+  size: 102, 390
+  orig: 102, 390
+  offset: 0, 0
+  index: -1
+window-02
+  rotate: false
+  xy: 201, 97
+  size: 77, 294
+  orig: 77, 294
+  offset: 0, 0
+  index: -1
+window-03
+  rotate: false
+  xy: 104, 51
+  size: 96, 340
+  orig: 96, 340
+  offset: 0, 0
+  index: -1

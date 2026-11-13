@@ -1,0 +1,20 @@
+
+Christmas_22.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huyaojiazi_l
+  rotate: true
+  xy: 1, 1
+  size: 45, 159
+  orig: 45, 159
+  offset: 0, 0
+  index: -1
+lyz@zpdd
+  rotate: true
+  xy: 1, 47
+  size: 55, 163
+  orig: 57, 166
+  offset: 1, 2
+  index: -1

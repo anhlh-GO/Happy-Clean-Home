@@ -1,0 +1,27 @@
+
+Christmas_09.webp
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiezi_9_1
+  rotate: true
+  xy: 271, 9
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+xiezi_9_2
+  rotate: true
+  xy: 172, 1
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+xiezi_9_yz@zpdd
+  rotate: false
+  xy: 1, 3
+  size: 170, 50
+  orig: 172, 51
+  offset: 1, 0
+  index: -1

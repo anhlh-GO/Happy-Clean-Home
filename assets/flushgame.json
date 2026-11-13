@@ -1,0 +1,1158 @@
+{
+    "flushgamelevel": [
+        {
+            "id": 1,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                101,
+                102
+            ],
+            "flushStep": [
+                1001
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 0
+        },
+        {
+            "id": 2,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                201
+            ],
+            "flushStep": [
+                2002
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 0
+        },
+        {
+            "id": 3,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                301
+            ],
+            "flushStep": [
+                3001
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 0
+        },
+        {
+            "id": 4,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                401
+            ],
+            "flushStep": [
+                4001
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 0
+        },
+        {
+            "id": 5,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508
+            ],
+            "skipPercent": 80,
+            "isNewPlay": 0
+        },
+        {
+            "id": 6,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve1",
+            "clickStep": [
+                601
+            ],
+            "flushStep": [
+                6001
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 0
+        },
+        {
+            "id": 7,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve7",
+            "dragStep": [
+                7101,
+                7102,
+                7103,
+                7104,
+                7105,
+                7201,
+                7202,
+                7203,
+                7204
+            ],
+            "flushStep": [
+                7301
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 1,
+            "stepIconSeq": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 8,
+            "tipId": "UI_level1_tips",
+            "resName": "ASMRLeve8",
+            "dragStep": [
+                8501
+            ],
+            "flushStep": [
+                8101,
+                8201,
+                8301,
+                8401
+            ],
+            "skipPercent": 60,
+            "isNewPlay": 1,
+            "stepIconSeq": [
+                1,
+                3,
+                4,
+                2,
+                5
+            ]
+        }
+    ],
+    "flushgamedragstep": [
+        {
+            "id": 7101,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_Repair",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 701,
+            "hitAreaName": "VineBtn1",
+            "spinePath": "SpineGroup/RoomAsmr_01_01",
+            "aniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 8,
+            "gametype": 7,
+            "resToolId": 306,
+            "toolHitAnim": "work",
+            "soundID": 1887,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode1",
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7102,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_Repair",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 701,
+            "hitAreaName": "VineBtn2",
+            "spinePath": "SpineGroup/RoomAsmr_01_02",
+            "aniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 8,
+            "gametype": 7,
+            "resToolId": 306,
+            "toolHitAnim": "work",
+            "soundID": 1887,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode1",
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7103,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_Repair",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 701,
+            "hitAreaName": "VineBtn3",
+            "spinePath": "SpineGroup/RoomAsmr_01_03",
+            "aniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 8,
+            "gametype": 7,
+            "resToolId": 306,
+            "toolHitAnim": "work",
+            "soundID": 1887,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode1",
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7104,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_Repair",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 701,
+            "hitAreaName": "VineBtn4",
+            "spinePath": "SpineGroup/RoomAsmr_01_04",
+            "aniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 8,
+            "gametype": 7,
+            "resToolId": 306,
+            "toolHitAnim": "work",
+            "soundID": 1887,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode1",
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7105,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_Repair",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 701,
+            "hitAreaName": "VineBtn5",
+            "spinePath": "SpineGroup/RoomAsmr_01_05",
+            "aniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 8,
+            "gametype": 7,
+            "resToolId": 306,
+            "toolHitAnim": "work",
+            "soundID": 1887,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode1",
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7201,
+            "stepSeq": 2,
+            "iconResName": "UI_Icon_Clean",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 702,
+            "hitAreaName": "LeafBtn1",
+            "spinePath": "SpineGroup/RoomAsmr_02_01",
+            "aniName": "2",
+            "finishAniName": "2_idle",
+            "finishNum": 7,
+            "gametype": 8,
+            "resToolId": 307,
+            "toolHitAnim": "work",
+            "soundID": 1888,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode2",
+            "guideTextPos": [
+                0,
+                -250
+            ]
+        },
+        {
+            "id": 7202,
+            "stepSeq": 2,
+            "iconResName": "UI_Icon_Clean",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 702,
+            "hitAreaName": "LeafBtn2",
+            "spinePath": "SpineGroup/RoomAsmr_02_02",
+            "aniName": "2",
+            "finishAniName": "2_idle",
+            "finishNum": 7,
+            "gametype": 8,
+            "resToolId": 307,
+            "toolHitAnim": "work",
+            "soundID": 1888,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode2",
+            "guideTextPos": [
+                0,
+                -250
+            ]
+        },
+        {
+            "id": 7203,
+            "stepSeq": 2,
+            "iconResName": "UI_Icon_Clean",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 702,
+            "hitAreaName": "LeafBtn3",
+            "spinePath": "SpineGroup/RoomAsmr_02_03",
+            "aniName": "2",
+            "finishAniName": "2_idle",
+            "finishNum": 7,
+            "gametype": 8,
+            "resToolId": 307,
+            "toolHitAnim": "work",
+            "soundID": 1888,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode2",
+            "guideTextPos": [
+                0,
+                -250
+            ]
+        },
+        {
+            "id": 7204,
+            "stepSeq": 2,
+            "iconResName": "UI_Icon_Clean",
+            "autoFinishPercent": 40,
+            "stepType": 1,
+            "groupId": 702,
+            "hitAreaName": "LeafBtn4",
+            "spinePath": "SpineGroup/RoomAsmr_02_04",
+            "aniName": "2",
+            "finishAniName": "2_idle",
+            "finishNum": 7,
+            "gametype": 8,
+            "resToolId": 307,
+            "toolHitAnim": "work",
+            "soundID": 1888,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTargetNode": "GuideNode2",
+            "guideTextPos": [
+                0,
+                -250
+            ]
+        },
+        {
+            "id": 8501,
+            "stepSeq": 5,
+            "iconResName": "UI_Icon_Hand",
+            "autoFinishPercent": 40,
+            "stepType": 2,
+            "groupId": 805,
+            "hitAreaName": "CurtainHand",
+            "spinePath": "SpineGroup/CurtainHand",
+            "aniName": "work",
+            "finishNum": 20,
+            "gametype": 9,
+            "resBgId": 10805,
+            "resToolId": 310,
+            "hasInitGuide": 0,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        }
+    ],
+    "flushgameclickstep": [
+        {
+            "id": 101,
+            "buttonName": "RepairBubbleBtn ",
+            "AniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 25,
+            "soundID": 1887
+        },
+        {
+            "id": 102,
+            "buttonName": "CleanBubbleBtn",
+            "AniName": "2",
+            "finishAniName": "2_idle",
+            "finishNum": 25,
+            "soundID": 1888
+        },
+        {
+            "id": 201,
+            "buttonName": "BubbleBtn",
+            "AniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 20,
+            "soundID": 1896
+        },
+        {
+            "id": 301,
+            "buttonName": "CleanBubbleBtn1",
+            "AniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 20,
+            "soundID": 1892
+        },
+        {
+            "id": 401,
+            "buttonName": "CleanBubbleBtn1",
+            "AniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 20,
+            "soundID": 1894
+        },
+        {
+            "id": 501,
+            "buttonName": "BubbleBtn",
+            "AniName": "1_2",
+            "finishNum": 20,
+            "soundID": 1896
+        },
+        {
+            "id": 502,
+            "buttonName": "RepairBubbleBtn",
+            "AniName": "2",
+            "finishNum": 20,
+            "soundID": 1897
+        },
+        {
+            "id": 503,
+            "buttonName": "CrowbarBubbleBtn1",
+            "AniName": "3_1",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 504,
+            "buttonName": "CrowbarBubbleBtn2",
+            "AniName": "3_2",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 505,
+            "buttonName": "CrowbarBubbleBtn3",
+            "AniName": "3_3",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 506,
+            "buttonName": "CrowbarBubbleBtn4",
+            "AniName": "3_4",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 507,
+            "buttonName": "CrowbarBubbleBtn5",
+            "AniName": "3_5",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 508,
+            "buttonName": "CrowbarBubbleBtn6",
+            "AniName": "3_6",
+            "finishNum": 10,
+            "soundID": 1898
+        },
+        {
+            "id": 601,
+            "buttonName": "BubbleBtn",
+            "AniName": "1",
+            "finishAniName": "1_idle",
+            "finishNum": 20,
+            "soundID": 1899
+        }
+    ],
+    "flushgamestep": [
+        {
+            "id": 1001,
+            "stepSeq": 0,
+            "finishNum": 50,
+            "finishPercent": 65,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 1,
+            "soundID": 1889,
+            "resBgId": 10101,
+            "resMaskId": 20101,
+            "resToolId": 301,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "param1": [
+                50,
+                30
+            ],
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 2001,
+            "stepSeq": 0,
+            "finishNum": 50,
+            "finishPercent": 82,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                150,
+                150
+            ],
+            "gametype": 4,
+            "soundID": 1890,
+            "resBgId": 10201,
+            "resMaskId": 20201,
+            "resToolId": 302,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 2002,
+            "stepSeq": 0,
+            "finishNum": 80,
+            "finishPercent": 75,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 5,
+            "soundID": 1891,
+            "resBgId": 10202,
+            "resMaskId": 20202,
+            "resToolId": 303,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 3001,
+            "stepSeq": 0,
+            "finishNum": 80,
+            "finishPercent": 72,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 2,
+            "soundID": 1893,
+            "resBgId": 10301,
+            "resMaskId": 20301,
+            "resToolId": 304,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 4001,
+            "stepSeq": 0,
+            "finishNum": 80,
+            "finishPercent": 65,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 3,
+            "soundID": 1895,
+            "resBgId": 10401,
+            "resMaskId": 20401,
+            "resToolId": 305,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 6001,
+            "stepSeq": 0,
+            "finishNum": 80,
+            "finishPercent": 60,
+            "autoFinishPercent": 0,
+            "brushShape": 0,
+            "brushFeather": 0,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 1,
+            "soundID": 1900,
+            "resBgId": 10601,
+            "resMaskId": 20601,
+            "resToolId": 301,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "param1": [
+                50,
+                30
+            ],
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 7301,
+            "stepSeq": 3,
+            "iconResName": "UI_Icon_Rinse",
+            "finishNum": 32,
+            "finishPercent": 95,
+            "autoFinishPercent": 40,
+            "brushShape": 0,
+            "brushFeather": 30,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 1,
+            "soundID": 1889,
+            "resBgId": 10101,
+            "resMaskId": 20101,
+            "resToolId": 301,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 1,
+            "uiShowWait": 0,
+            "param1": [
+                50,
+                30
+            ],
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 8101,
+            "stepSeq": 1,
+            "iconResName": "UI_Icon_PestControl",
+            "finishNum": 20,
+            "finishPercent": 92,
+            "autoFinishPercent": 40,
+            "brushShape": 0,
+            "brushFeather": 100,
+            "brushSize": [
+                200,
+                200
+            ],
+            "gametype": 4,
+            "soundID": 1896,
+            "resBgId": 10801,
+            "resMaskId": 20801,
+            "resToolId": 302,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 0,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 8201,
+            "stepSeq": 2,
+            "iconResName": "UI_Icon_Polish",
+            "finishNum": 20,
+            "finishPercent": 93,
+            "autoFinishPercent": 40,
+            "brushShape": 0,
+            "brushFeather": 40,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 5,
+            "soundID": 1891,
+            "resBgId": 10802,
+            "resMaskId": 20802,
+            "resToolId": 309,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 0,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 8301,
+            "stepSeq": 3,
+            "iconResName": "UI_Icon_Rinse",
+            "finishNum": 20,
+            "finishPercent": 93,
+            "autoFinishPercent": 40,
+            "brushShape": 0,
+            "brushFeather": 30,
+            "brushSize": [
+                120,
+                120
+            ],
+            "gametype": 1,
+            "soundID": 1889,
+            "resBgId": 10803,
+            "resMaskId": 20803,
+            "resToolId": 311,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 0,
+            "uiShowWait": 0,
+            "param1": [
+                50,
+                30
+            ],
+            "guideTextPos": [
+                0,
+                300
+            ]
+        },
+        {
+            "id": 8401,
+            "stepSeq": 4,
+            "iconResName": "UI_Icon_Wiper",
+            "finishNum": 20,
+            "finishPercent": 93,
+            "autoFinishPercent": 40,
+            "brushShape": 1,
+            "brushFeather": 10,
+            "brushSize": [
+                200,
+                60
+            ],
+            "gametype": 6,
+            "resBgId": 10804,
+            "resMaskId": 20804,
+            "resToolId": 308,
+            "toolPos": [
+                0,
+                0
+            ],
+            "finishEffect": 401,
+            "safePosStart": [
+                0,
+                0
+            ],
+            "safePosEnd": [
+                7,
+                681,
+                240
+            ],
+            "uiBgPos": [
+                0,
+                0
+            ],
+            "maskPos": [
+                0,
+                0
+            ],
+            "uiBgScale": 100,
+            "hasInitGuide": 0,
+            "uiShowWait": 0,
+            "guideTextPos": [
+                0,
+                300
+            ]
+        }
+    ],
+    "flushgameresouse": [
+        {
+            "id": 10101,
+            "path": "FlushGame/RoomLevelTextures/r_1"
+        },
+        {
+            "id": 10201,
+            "path": "FlushGame/RoomLevelTextures/r_2"
+        },
+        {
+            "id": 10202,
+            "path": "FlushGame/RoomLevelTextures/r_2_02"
+        },
+        {
+            "id": 10301,
+            "path": "FlushGame/RoomLevelTextures/r_3"
+        },
+        {
+            "id": 10401,
+            "path": "FlushGame/RoomLevelTextures/r_4"
+        },
+        {
+            "id": 10601,
+            "path": "FlushGame/RoomLevelTextures/r_6"
+        },
+        {
+            "id": 20101,
+            "path": "FlushGame/RoomLevelTextures/r_1_mask"
+        },
+        {
+            "id": 20201,
+            "path": "FlushGame/RoomLevelTextures/r_2_mask"
+        },
+        {
+            "id": 20202,
+            "path": "FlushGame/RoomLevelTextures/r_2_02_mask"
+        },
+        {
+            "id": 20301,
+            "path": "FlushGame/RoomLevelTextures/r_3_mask"
+        },
+        {
+            "id": 20401,
+            "path": "FlushGame/RoomLevelTextures/r_4_mask"
+        },
+        {
+            "id": 20601,
+            "path": "FlushGame/RoomLevelTextures/r_6_mask"
+        },
+        {
+            "id": 301,
+            "path": "FlushGame/Prefabs/WashTool"
+        },
+        {
+            "id": 302,
+            "path": "FlushGame/Prefabs/SprayTool"
+        },
+        {
+            "id": 303,
+            "path": "FlushGame/Prefabs/GrinderTool"
+        },
+        {
+            "id": 304,
+            "path": "FlushGame/Prefabs/ShovelTool"
+        },
+        {
+            "id": 305,
+            "path": "FlushGame/Prefabs/MowTool"
+        },
+        {
+            "id": 401,
+            "path": "FlushGame/Prefabs/Effect_star"
+        },
+        {
+            "id": 306,
+            "path": "FlushGame/Prefabs/ScissorsTool"
+        },
+        {
+            "id": 307,
+            "path": "FlushGame/Prefabs/BesomTool"
+        },
+        {
+            "id": 308,
+            "path": "FlushGame/Prefabs/SqueegeeTool"
+        },
+        {
+            "id": 309,
+            "path": "FlushGame/Prefabs/CleanBrushTool"
+        },
+        {
+            "id": 310,
+            "path": "FlushGame/Prefabs/CurtainHandTool"
+        },
+        {
+            "id": 311,
+            "path": "FlushGame/Prefabs/WashTool_4"
+        },
+        {
+            "id": 10801,
+            "path": "FlushGame/RoomLevelTextures/bpp"
+        },
+        {
+            "id": 10802,
+            "path": "FlushGame/RoomLevelTextures/zpp"
+        },
+        {
+            "id": 10803,
+            "path": "FlushGame/RoomLevelTextures/shuizi"
+        },
+        {
+            "id": 10804,
+            "path": "FlushGame/RoomLevelTextures/boli_gaoguang"
+        },
+        {
+            "id": 10805,
+            "path": "FlushGame/RoomLevelTextures/BG"
+        },
+        {
+            "id": 10806,
+            "path": "FlushGame/RoomLevelTextures/chuangkuang"
+        },
+        {
+            "id": 20801,
+            "path": "FlushGame/RoomLevelTextures/ty_zang"
+        },
+        {
+            "id": 20802,
+            "path": "FlushGame/RoomLevelTextures/bpp"
+        },
+        {
+            "id": 20803,
+            "path": "FlushGame/RoomLevelTextures/zpp"
+        },
+        {
+            "id": 20804,
+            "path": "FlushGame/RoomLevelTextures/shuizi"
+        }
+    ]
+}

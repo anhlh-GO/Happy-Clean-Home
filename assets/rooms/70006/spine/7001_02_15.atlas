@@ -1,0 +1,167 @@
+
+7001_02_15.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam-up1
+  rotate: false
+  xy: 1, 228
+  size: 277, 27
+  orig: 277, 27
+  offset: 0, 0
+  index: -1
+beam-up2
+  rotate: false
+  xy: 1, 208
+  size: 269, 19
+  orig: 269, 19
+  offset: 0, 0
+  index: -1
+beam1-01
+  rotate: true
+  xy: 279, 238
+  size: 17, 170
+  orig: 17, 170
+  offset: 0, 0
+  index: -1
+beam1-02
+  rotate: true
+  xy: 411, 73
+  size: 145, 16
+  orig: 145, 16
+  offset: 0, 0
+  index: -1
+beam1-03
+  rotate: false
+  xy: 391, 78
+  size: 19, 140
+  orig: 19, 140
+  offset: 0, 0
+  index: -1
+beam1-04
+  rotate: false
+  xy: 279, 219
+  size: 154, 18
+  orig: 154, 18
+  offset: 0, 0
+  index: -1
+beam2-01
+  rotate: false
+  xy: 428, 98
+  size: 10, 120
+  orig: 10, 120
+  offset: 0, 0
+  index: -1
+beam2-02
+  rotate: true
+  xy: 439, 160
+  size: 77, 10
+  orig: 77, 10
+  offset: 0, 0
+  index: -1
+beam2-03
+  rotate: true
+  xy: 1, 15
+  size: 12, 104
+  orig: 12, 104
+  offset: 0, 0
+  index: -1
+beam2-04
+  rotate: false
+  xy: 1, 1
+  size: 85, 13
+  orig: 85, 13
+  offset: 0, 0
+  index: -1
+beam3-01
+  rotate: true
+  xy: 202, 34
+  size: 7, 93
+  orig: 7, 93
+  offset: 0, 0
+  index: -1
+beam3-02
+  rotate: false
+  xy: 277, 88
+  size: 54, 11
+  orig: 54, 11
+  offset: 0, 0
+  index: -1
+beam3-03
+  rotate: false
+  xy: 450, 144
+  size: 11, 83
+  orig: 11, 83
+  offset: 0, 0
+  index: -1
+beam3-04
+  rotate: true
+  xy: 439, 105
+  size: 54, 10
+  orig: 54, 10
+  offset: 0, 0
+  index: -1
+scenery-01
+  rotate: false
+  xy: 105, 35
+  size: 96, 172
+  orig: 96, 172
+  offset: 0, 0
+  index: -1
+scenery-02
+  rotate: false
+  xy: 277, 100
+  size: 59, 118
+  orig: 59, 118
+  offset: 0, 0
+  index: -1
+scenery-03
+  rotate: true
+  xy: 193, 8
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+shadow-01@zpdd
+  rotate: false
+  xy: 202, 87
+  size: 74, 120
+  orig: 74, 120
+  offset: 0, 0
+  index: -1
+shadow-02@zpdd
+  rotate: true
+  xy: 202, 42
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+shadow-03@zpdd
+  rotate: true
+  xy: 450, 228
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+window-01
+  rotate: false
+  xy: 1, 28
+  size: 103, 179
+  orig: 103, 179
+  offset: 0, 0
+  index: -1
+window-02
+  rotate: false
+  xy: 337, 99
+  size: 53, 119
+  orig: 53, 119
+  offset: 0, 0
+  index: -1
+window-03
+  rotate: true
+  xy: 106, 2
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1

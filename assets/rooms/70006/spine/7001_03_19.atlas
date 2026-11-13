@@ -1,0 +1,69 @@
+
+7001_03_19.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biandeng
+  rotate: true
+  xy: 87, 25
+  size: 36, 139
+  orig: 36, 139
+  offset: 0, 0
+  index: -1
+biandeng@zpdd
+  rotate: true
+  xy: 87, 1
+  size: 23, 96
+  orig: 27, 101
+  offset: 0, 4
+  index: -1
+leaf1
+  rotate: false
+  xy: 212, 98
+  size: 297, 412
+  orig: 297, 412
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 0, 62
+  size: 448, 211
+  orig: 448, 211
+  offset: 0, 0
+  index: -1
+shafazhuangshi
+  rotate: true
+  xy: 455, 10
+  size: 87, 72
+  orig: 87, 72
+  offset: 0, 0
+  index: -1
+shafazhuangshi@zpdd
+  rotate: true
+  xy: 47, 12
+  size: 49, 39
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+zhiwuqian@zpdd
+  rotate: true
+  xy: 510, 425
+  size: 85, 76
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+zhiwuzuo
+  rotate: true
+  xy: 227, 0
+  size: 97, 227
+  orig: 97, 227
+  offset: 0, 0
+  index: -1
+zhiwuzuo@zpdd
+  rotate: true
+  xy: 0, 10
+  size: 51, 46
+  orig: 56, 67
+  offset: 1, 8
+  index: -1

@@ -1,0 +1,34 @@
+
+7004_06_17.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_17_1
+  rotate: false
+  xy: 216, 44
+  size: 78, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+6_17_2
+  rotate: true
+  xy: 111, 16
+  size: 65, 104
+  orig: 65, 104
+  offset: 0, 0
+  index: -1
+6_17_3
+  rotate: false
+  xy: 1, 1
+  size: 109, 80
+  orig: 110, 80
+  offset: 1, 0
+  index: -1
+6_17_zt@zpdd
+  rotate: false
+  xy: 1, 82
+  size: 203, 29
+  orig: 209, 33
+  offset: 1, 2
+  index: -1

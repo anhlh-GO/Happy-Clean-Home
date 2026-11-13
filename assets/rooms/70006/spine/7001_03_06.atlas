@@ -1,0 +1,244 @@
+
+7001_03_06.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang1
+  rotate: false
+  xy: 114, 31
+  size: 370, 224
+  orig: 371, 224
+  offset: 0, 0
+  index: -1
+chuang2
+  rotate: false
+  xy: 485, 42
+  size: 367, 213
+  orig: 367, 213
+  offset: 0, 0
+  index: -1
+chuang2@zpdd
+  rotate: true
+  xy: 896, 109
+  size: 146, 127
+  orig: 146, 127
+  offset: 0, 0
+  index: -1
+chuang@zpdd
+  rotate: false
+  xy: 915, 35
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+gan1-1
+  rotate: true
+  xy: 1, 8
+  size: 14, 170
+  orig: 14, 170
+  offset: 0, 0
+  index: -1
+gan1-10
+  rotate: true
+  xy: 576, 1
+  size: 9, 108
+  orig: 9, 108
+  offset: 0, 0
+  index: -1
+gan1-11
+  rotate: true
+  xy: 463, 1
+  size: 9, 112
+  orig: 9, 112
+  offset: 0, 0
+  index: -1
+gan1-12
+  rotate: true
+  xy: 675, 12
+  size: 10, 115
+  orig: 10, 115
+  offset: 0, 0
+  index: -1
+gan1-13
+  rotate: true
+  xy: 556, 11
+  size: 11, 118
+  orig: 11, 118
+  offset: 0, 0
+  index: -1
+gan1-14
+  rotate: false
+  xy: 485, 31
+  size: 375, 10
+  orig: 375, 10
+  offset: 0, 0
+  index: -1
+gan1-15
+  rotate: false
+  xy: 172, 11
+  size: 383, 11
+  orig: 383, 11
+  offset: 0, 0
+  index: -1
+gan1-2
+  rotate: false
+  xy: 1, 23
+  size: 21, 232
+  orig: 21, 232
+  offset: 0, 0
+  index: -1
+gan1-3
+  rotate: false
+  xy: 906, 18
+  size: 8, 90
+  orig: 8, 90
+  offset: 0, 0
+  index: -1
+gan1-4
+  rotate: true
+  xy: 685, 1
+  size: 10, 93
+  orig: 10, 93
+  offset: 0, 0
+  index: -1
+gan1-5
+  rotate: false
+  xy: 896, 13
+  size: 9, 95
+  orig: 9, 95
+  offset: 0, 0
+  index: -1
+gan1-6
+  rotate: true
+  xy: 915, 15
+  size: 9, 98
+  orig: 9, 98
+  offset: 0, 0
+  index: -1
+gan1-7
+  rotate: true
+  xy: 915, 25
+  size: 9, 101
+  orig: 9, 101
+  offset: 0, 0
+  index: -1
+gan1-8
+  rotate: true
+  xy: 791, 13
+  size: 9, 104
+  orig: 9, 104
+  offset: 0, 0
+  index: -1
+gan1-9
+  rotate: true
+  xy: 779, 2
+  size: 9, 106
+  orig: 9, 106
+  offset: 0, 0
+  index: -1
+gan2-1
+  rotate: true
+  xy: 271, 1
+  size: 9, 191
+  orig: 9, 191
+  offset: 0, 0
+  index: -1
+gan2-10
+  rotate: false
+  xy: 874, 117
+  size: 7, 138
+  orig: 7, 138
+  offset: 0, 0
+  index: -1
+gan2-11
+  rotate: true
+  xy: 886, 5
+  size: 7, 135
+  orig: 7, 135
+  offset: 0, 0
+  index: -1
+gan2-12
+  rotate: false
+  xy: 861, 122
+  size: 7, 133
+  orig: 7, 133
+  offset: 0, 0
+  index: -1
+gan2-13
+  rotate: false
+  xy: 853, 125
+  size: 7, 130
+  orig: 8, 130
+  offset: 1, 0
+  index: -1
+gan2-14
+  rotate: true
+  xy: 143, 1
+  size: 6, 127
+  orig: 7, 127
+  offset: 1, 0
+  index: -1
+gan2-15
+  rotate: true
+  xy: 85, 29
+  size: 226, 28
+  orig: 226, 28
+  offset: 0, 0
+  index: -1
+gan2-2
+  rotate: false
+  xy: 23, 24
+  size: 13, 231
+  orig: 13, 231
+  offset: 0, 0
+  index: -1
+gan2-3
+  rotate: true
+  xy: 37, 27
+  size: 228, 47
+  orig: 228, 47
+  offset: 0, 0
+  index: -1
+gan2-4
+  rotate: true
+  xy: 114, 23
+  size: 7, 157
+  orig: 7, 157
+  offset: 0, 0
+  index: -1
+gan2-5
+  rotate: true
+  xy: 272, 23
+  size: 7, 155
+  orig: 8, 155
+  offset: 0, 0
+  index: -1
+gan2-6
+  rotate: true
+  xy: 428, 23
+  size: 7, 151
+  orig: 7, 151
+  offset: 0, 0
+  index: -1
+gan2-7
+  rotate: true
+  xy: 580, 23
+  size: 7, 148
+  orig: 7, 148
+  offset: 0, 0
+  index: -1
+gan2-8
+  rotate: true
+  xy: 729, 23
+  size: 7, 144
+  orig: 8, 144
+  offset: 1, 0
+  index: -1
+gan2-9
+  rotate: true
+  xy: 1, 1
+  size: 6, 141
+  orig: 7, 141
+  offset: 1, 0
+  index: -1

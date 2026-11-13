@@ -1,0 +1,27 @@
+
+Christmas_03.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dazuozi
+  rotate: false
+  xy: 1, 33
+  size: 321, 199
+  orig: 321, 199
+  offset: 0, 0
+  index: -1
+xiaozuozi
+  rotate: true
+  xy: 323, 1
+  size: 231, 151
+  orig: 231, 163
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 233
+  size: 414, 173
+  orig: 414, 173
+  offset: 0, 0
+  index: -1

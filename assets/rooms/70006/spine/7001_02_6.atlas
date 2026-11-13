@@ -1,0 +1,48 @@
+
+7001_02_6.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang1
+  rotate: true
+  xy: 257, 138
+  size: 360, 187
+  orig: 360, 187
+  offset: 0, 0
+  index: -1
+chuang2
+  rotate: true
+  xy: 1, 125
+  size: 373, 255
+  orig: 373, 255
+  offset: 0, 0
+  index: -1
+chuang3
+  rotate: true
+  xy: 445, 1
+  size: 241, 224
+  orig: 241, 224
+  offset: 0, 0
+  index: -1
+chuang@zpdd
+  rotate: true
+  xy: 445, 243
+  size: 255, 234
+  orig: 255, 234
+  offset: 0, 0
+  index: -1
+gai1
+  rotate: false
+  xy: 1, 75
+  size: 240, 49
+  orig: 240, 49
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: true
+  xy: 1, 44
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+7001_03_16.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-door
+  rotate: true
+  xy: 72, 45
+  size: 29, 265
+  orig: 29, 265
+  offset: 0, 0
+  index: -1
+R-door
+  rotate: true
+  xy: 72, 75
+  size: 75, 223
+  orig: 75, 223
+  offset: 0, 0
+  index: -1
+beam-01
+  rotate: false
+  xy: 153, 151
+  size: 269, 10
+  orig: 269, 10
+  offset: 0, 0
+  index: -1
+beam-02
+  rotate: true
+  xy: 1, 11
+  size: 11, 264
+  orig: 11, 264
+  offset: 0, 0
+  index: -1
+beam-03
+  rotate: false
+  xy: 1, 23
+  size: 288, 14
+  orig: 288, 14
+  offset: 0, 0
+  index: -1
+beam-04
+  rotate: false
+  xy: 1, 1
+  size: 263, 9
+  orig: 263, 9
+  offset: 0, 0
+  index: -1
+beam-05
+  rotate: true
+  xy: 266, 3
+  size: 10, 203
+  orig: 10, 203
+  offset: 0, 0
+  index: -1
+shadow@zpdd
+  rotate: true
+  xy: 423, 14
+  size: 147, 17
+  orig: 147, 22
+  offset: 0, 1
+  index: -1
+window-01
+  rotate: false
+  xy: 1, 154
+  size: 151, 86
+  orig: 151, 86
+  offset: 0, 0
+  index: -1
+window-02
+  rotate: true
+  xy: 1, 38
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+window-03
+  rotate: true
+  xy: 153, 162
+  size: 78, 294
+  orig: 78, 294
+  offset: 0, 0
+  index: -1
+window-04
+  rotate: false
+  xy: 448, 24
+  size: 57, 216
+  orig: 57, 216
+  offset: 0, 0
+  index: -1

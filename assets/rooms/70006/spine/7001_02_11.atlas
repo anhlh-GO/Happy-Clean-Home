@@ -1,0 +1,20 @@
+
+7001_02_11.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yizi
+  rotate: false
+  xy: 0, 0
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+yizi@zpdd
+  rotate: true
+  xy: 163, 50
+  size: 119, 100
+  orig: 149, 103
+  offset: 5, 3
+  index: -1

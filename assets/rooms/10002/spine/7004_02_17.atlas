@@ -1,0 +1,41 @@
+
+7004_02_17.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 135, 12
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+nangua
+  rotate: false
+  xy: 1, 49
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+yi1@zpdd
+  rotate: false
+  xy: 1, 1
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+yiz@zpdd
+  rotate: true
+  xy: 115, 15
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+yzng@zpdd
+  rotate: false
+  xy: 135, 63
+  size: 157, 62
+  orig: 164, 69
+  offset: 3, 3
+  index: -1

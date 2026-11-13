@@ -1,0 +1,69 @@
+
+7004_ad_01.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanglian_l
+  rotate: true
+  xy: 1, 346
+  size: 182, 431
+  orig: 182, 431
+  offset: 0, 0
+  index: -1
+chuanglian_l@zpdd
+  rotate: false
+  xy: 1, 729
+  size: 96, 37
+  orig: 104, 44
+  offset: 4, 6
+  index: -1
+chuanglian_r
+  rotate: true
+  xy: 1, 529
+  size: 180, 432
+  orig: 180, 432
+  offset: 0, 0
+  index: -1
+chuanglian_r@zpdd
+  rotate: true
+  xy: 98, 710
+  size: 56, 439
+  orig: 62, 456
+  offset: 3, 16
+  index: -1
+hp1
+  rotate: false
+  xy: 538, 709
+  size: 75, 57
+  orig: 77, 59
+  offset: 1, 1
+  index: -1
+hp2
+  rotate: false
+  xy: 614, 705
+  size: 75, 61
+  orig: 77, 63
+  offset: 1, 1
+  index: -1
+hua1_@zpdd
+  rotate: true
+  xy: 434, 457
+  size: 180, 499
+  orig: 184, 509
+  offset: 1, 8
+  index: -1
+hua2
+  rotate: false
+  xy: 433, 1
+  size: 577, 455
+  orig: 577, 455
+  offset: 0, 0
+  index: -1
+hua2_@zpdd
+  rotate: false
+  xy: 690, 638
+  size: 157, 128
+  orig: 160, 131
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,90 @@
+
+7004old01.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_ditan
+  rotate: false
+  xy: 1, 52
+  size: 633, 183
+  orig: 633, 183
+  offset: 0, 0
+  index: -1
+2_ditan@zpdd
+  rotate: false
+  xy: 635, 139
+  size: 330, 96
+  orig: 330, 97
+  offset: 0, 0
+  index: -1
+ditan_000
+  rotate: false
+  xy: 966, 185
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_001
+  rotate: false
+  xy: 1384, 185
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_002
+  rotate: false
+  xy: 966, 134
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_003
+  rotate: false
+  xy: 1384, 134
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_004
+  rotate: false
+  xy: 635, 83
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_005
+  rotate: false
+  xy: 1053, 83
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_006
+  rotate: false
+  xy: 1471, 83
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_007
+  rotate: false
+  xy: 635, 32
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_008
+  rotate: false
+  xy: 1, 1
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1
+ditan_009
+  rotate: false
+  xy: 1053, 32
+  size: 417, 50
+  orig: 417, 50
+  offset: 0, 0
+  index: -1

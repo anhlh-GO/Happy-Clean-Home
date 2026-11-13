@@ -1,0 +1,20 @@
+
+7004_06_15.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dix
+  rotate: true
+  xy: 192, 76
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+dx
+  rotate: true
+  xy: 1, 1
+  size: 112, 190
+  orig: 112, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Christmas_18.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: true
+  xy: 1, 13
+  size: 185, 188
+  orig: 185, 188
+  offset: 0, 0
+  index: -1
+quanjyz@zpdd
+  rotate: false
+  xy: 190, 1
+  size: 102, 101
+  orig: 104, 103
+  offset: 1, 1
+  index: -1
+zhi
+  rotate: false
+  xy: 190, 103
+  size: 268, 95
+  orig: 268, 95
+  offset: 0, 0
+  index: -1
+zhiyz@zpdd
+  rotate: true
+  xy: 459, 63
+  size: 135, 48
+  orig: 135, 49
+  offset: 0, 0
+  index: -1

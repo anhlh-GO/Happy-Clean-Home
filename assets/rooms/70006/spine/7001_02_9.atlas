@@ -1,0 +1,83 @@
+
+7001_02_9.webp
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouti
+  rotate: true
+  xy: 531, 42
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+choutiBack
+  rotate: false
+  xy: 286, 3
+  size: 87, 18
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+guizi
+  rotate: true
+  xy: 149, 15
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+guizi_shadow@zpdd
+  rotate: true
+  xy: 0, 5
+  size: 123, 148
+  orig: 125, 155
+  offset: 1, 2
+  index: -1
+taideng
+  rotate: false
+  xy: 467, 38
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+taideng_Shadow@zpdd
+  rotate: false
+  xy: 216, 1
+  size: 69, 13
+  orig: 75, 15
+  offset: 2, 1
+  index: -1
+taideng_light
+  rotate: true
+  xy: 282, 22
+  size: 106, 184
+  orig: 113, 189
+  offset: 7, 4
+  index: -1
+zhuozhuangshi1
+  rotate: true
+  xy: 185, 0
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+zhuozhuangshi2
+  rotate: true
+  xy: 149, 0
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+zhuozhuangshi3
+  rotate: false
+  xy: 374, 3
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+zhuozhuangshi_shadow@zpdd
+  rotate: false
+  xy: 467, 2
+  size: 79, 35
+  orig: 85, 41
+  offset: 3, 3
+  index: -1

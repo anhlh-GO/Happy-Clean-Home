@@ -1,0 +1,34 @@
+
+7001_03_8.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guahua1
+  rotate: false
+  xy: 111, 120
+  size: 98, 129
+  orig: 98, 129
+  offset: 0, 0
+  index: -1
+guahua1Shadow@zpdd
+  rotate: false
+  xy: 1, 108
+  size: 109, 141
+  orig: 110, 142
+  offset: 1, 1
+  index: -1
+guahua2
+  rotate: false
+  xy: 130, 1
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+guahua2Shadow@zpdd
+  rotate: true
+  xy: 1, 13
+  size: 94, 128
+  orig: 94, 130
+  offset: 0, 1
+  index: -1

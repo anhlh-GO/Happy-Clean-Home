@@ -1,0 +1,48 @@
+
+7001_03_17.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shafa
+  rotate: false
+  xy: 0, 13
+  size: 201, 113
+  orig: 201, 113
+  offset: 0, 0
+  index: -1
+shafa@zpdd
+  rotate: true
+  xy: 202, 15
+  size: 111, 79
+  orig: 115, 84
+  offset: 1, 0
+  index: -1
+shafabaozhen01
+  rotate: true
+  xy: 348, 47
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+shafabaozhen01@zpdd
+  rotate: false
+  xy: 282, 0
+  size: 52, 35
+  orig: 55, 41
+  offset: 2, 4
+  index: -1
+shafabaozhen02
+  rotate: true
+  xy: 282, 36
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+shafabaozhen02@zpdd
+  rotate: false
+  xy: 348, 4
+  size: 63, 42
+  orig: 67, 45
+  offset: 3, 1
+  index: -1

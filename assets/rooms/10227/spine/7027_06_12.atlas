@@ -1,0 +1,62 @@
+
+7027_06_12.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_12@jx
+  rotate: false
+  xy: 0, 92
+  size: 512, 163
+  orig: 833, 484
+  offset: 320, 319
+  index: -1
+6_12_1
+  rotate: false
+  xy: 513, 105
+  size: 512, 150
+  orig: 833, 470
+  offset: 320, 319
+  index: -1
+6_12_2
+  rotate: false
+  xy: 1026, 106
+  size: 120, 149
+  orig: 121, 151
+  offset: 0, 1
+  index: -1
+6_12_3
+  rotate: true
+  xy: 264, 19
+  size: 31, 83
+  orig: 33, 87
+  offset: 1, 2
+  index: -1
+6_12_4
+  rotate: false
+  xy: 0, 0
+  size: 263, 91
+  orig: 385, 402
+  offset: 121, 310
+  index: -1
+6_12yy1@zpdd
+  rotate: true
+  xy: 264, 51
+  size: 40, 94
+  orig: 42, 98
+  offset: 1, 2
+  index: -1
+6_12yy2@zpdd
+  rotate: true
+  xy: 513, 10
+  size: 94, 148
+  orig: 97, 151
+  offset: 1, 1
+  index: -1
+6_12yy3@zpdd
+  rotate: true
+  xy: 264, 11
+  size: 7, 44
+  orig: 11, 48
+  offset: 2, 2
+  index: -1

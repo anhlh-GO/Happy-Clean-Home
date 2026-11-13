@@ -1,0 +1,76 @@
+
+7001_02_17.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sfd
+  rotate: false
+  xy: 95, 30
+  size: 129, 52
+  orig: 132, 52
+  offset: 3, 0
+  index: -1
+sfdyy
+  rotate: false
+  xy: 95, 4
+  size: 123, 25
+  orig: 124, 26
+  offset: 1, 0
+  index: -1
+shafa
+  rotate: true
+  xy: 0, 83
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+shafa@zpdd
+  rotate: false
+  xy: 0, 0
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+shafabaozhen
+  rotate: true
+  xy: 225, 32
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+shafabaozhen@zpdd
+  rotate: false
+  xy: 219, 1
+  size: 35, 28
+  orig: 37, 29
+  offset: 1, 0
+  index: -1
+zt1
+  rotate: true
+  xy: 195, 113
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+zt1yy
+  rotate: false
+  xy: 147, 178
+  size: 61, 74
+  orig: 61, 76
+  offset: 0, 2
+  index: -1
+zt2
+  rotate: true
+  xy: 147, 96
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+zt2yy
+  rotate: true
+  xy: 195, 97
+  size: 15, 48
+  orig: 17, 51
+  offset: 1, 2
+  index: -1

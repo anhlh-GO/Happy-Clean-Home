@@ -1,0 +1,20 @@
+
+7004_01_15.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light2
+  rotate: true
+  xy: 1, 2
+  size: 76, 133
+  orig: 76, 133
+  offset: 0, 0
+  index: -1
+light2_chain
+  rotate: false
+  xy: 135, 1
+  size: 28, 77
+  orig: 28, 77
+  offset: 0, 0
+  index: -1

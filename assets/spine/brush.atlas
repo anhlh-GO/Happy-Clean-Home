@@ -1,0 +1,13 @@
+
+brush.webp
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuazi
+  rotate: false
+  xy: 1, 1
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1

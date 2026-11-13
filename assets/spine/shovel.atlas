@@ -1,0 +1,13 @@
+
+shovel.webp
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tool2
+  rotate: false
+  xy: 1, 1
+  size: 148, 342
+  orig: 148, 342
+  offset: 0, 0
+  index: -1

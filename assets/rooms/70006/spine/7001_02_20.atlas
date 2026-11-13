@@ -1,0 +1,97 @@
+
+7001_02_20.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1
+  rotate: false
+  xy: 239, 86
+  size: 92, 167
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+deng1-1
+  rotate: false
+  xy: 87, 9
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+deng1-2
+  rotate: true
+  xy: 1, 1
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: true
+  xy: 1, 73
+  size: 180, 174
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+deng2-1
+  rotate: false
+  xy: 43, 5
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+deng2-2
+  rotate: false
+  xy: 73, 8
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+deng2-3
+  rotate: false
+  xy: 27, 3
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+deng2-4
+  rotate: false
+  xy: 58, 7
+  size: 14, 22
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+deng3
+  rotate: false
+  xy: 176, 73
+  size: 21, 180
+  orig: 21, 180
+  offset: 0, 0
+  index: -1
+deng4a
+  rotate: true
+  xy: 198, 83
+  size: 170, 40
+  orig: 170, 40
+  offset: 0, 0
+  index: -1
+deng4b
+  rotate: false
+  xy: 39, 30
+  size: 170, 42
+  orig: 170, 42
+  offset: 0, 0
+  index: -1
+deng5
+  rotate: true
+  xy: 210, 48
+  size: 34, 137
+  orig: 34, 137
+  offset: 0, 0
+  index: -1
+yizi@zpdd
+  rotate: true
+  xy: 1, 29
+  size: 43, 37
+  orig: 46, 41
+  offset: 2, 2
+  index: -1

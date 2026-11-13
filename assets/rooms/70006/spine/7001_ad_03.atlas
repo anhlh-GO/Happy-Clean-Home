@@ -1,0 +1,90 @@
+
+7001_ad_03.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_01
+  rotate: true
+  xy: 93, 5
+  size: 22, 37
+  orig: 24, 38
+  offset: 1, 0
+  index: -1
+cc_02
+  rotate: true
+  xy: 58, 1
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+cc_03
+  rotate: false
+  xy: 155, 71
+  size: 37, 39
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+cc_04
+  rotate: false
+  xy: 185, 31
+  size: 37, 39
+  orig: 38, 40
+  offset: 1, 0
+  index: -1
+cc_05
+  rotate: false
+  xy: 108, 29
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+cc_06
+  rotate: true
+  xy: 108, 63
+  size: 47, 46
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+cc_07
+  rotate: true
+  xy: 144, 21
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 1, 4
+  size: 56, 247
+  orig: 67, 268
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 58, 28
+  size: 49, 223
+  orig: 49, 223
+  offset: 0, 0
+  index: -1
+jz1
+  rotate: true
+  xy: 182, 119
+  size: 132, 37
+  orig: 133, 56
+  offset: 1, 0
+  index: -1
+jz2
+  rotate: true
+  xy: 108, 111
+  size: 140, 73
+  orig: 143, 74
+  offset: 3, 0
+  index: -1
+yy@zpdd
+  rotate: true
+  xy: 220, 120
+  size: 131, 130
+  orig: 139, 134
+  offset: 3, 2
+  index: -1

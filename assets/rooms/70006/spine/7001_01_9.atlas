@@ -1,0 +1,104 @@
+
+7001_01_9.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guizi@zpdd
+  rotate: true
+  xy: 288, 119
+  size: 64, 45
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+guzi1
+  rotate: false
+  xy: 0, 115
+  size: 115, 130
+  orig: 115, 130
+  offset: 0, 0
+  index: -1
+guzi2
+  rotate: false
+  xy: 116, 120
+  size: 115, 31
+  orig: 115, 31
+  offset: 0, 0
+  index: -1
+guzi3
+  rotate: true
+  xy: 176, 17
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+guzi4
+  rotate: false
+  xy: 266, 214
+  size: 113, 31
+  orig: 113, 31
+  offset: 0, 0
+  index: -1
+guzi5
+  rotate: false
+  xy: 221, 18
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1
+guzi6
+  rotate: false
+  xy: 266, 184
+  size: 112, 29
+  orig: 112, 29
+  offset: 0, 0
+  index: -1
+guzi7
+  rotate: true
+  xy: 130, 15
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1
+guzi9
+  rotate: true
+  xy: 0, 0
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+taideng
+  rotate: false
+  xy: 232, 60
+  size: 55, 91
+  orig: 55, 92
+  offset: 0, 1
+  index: -1
+taidengguang
+  rotate: true
+  xy: 116, 152
+  size: 93, 149
+  orig: 102, 156
+  offset: 9, 2
+  index: -1
+yi
+  rotate: false
+  xy: 130, 3
+  size: 38, 11
+  orig: 39, 11
+  offset: 1, 0
+  index: -1
+yizi@zpdd
+  rotate: false
+  xy: 176, 3
+  size: 43, 13
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+zhuozhuangshi
+  rotate: false
+  xy: 288, 62
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1

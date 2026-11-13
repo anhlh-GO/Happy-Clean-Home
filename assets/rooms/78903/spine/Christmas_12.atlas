@@ -1,0 +1,41 @@
+
+Christmas_12.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: false
+  xy: 1, 81
+  size: 219, 59
+  orig: 219, 60
+  offset: 0, 1
+  index: -1
+la
+  rotate: false
+  xy: 178, 11
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+ping
+  rotate: true
+  xy: 80, 37
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+tong_qian
+  rotate: true
+  xy: 1, 1
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+tonghou
+  rotate: true
+  xy: 221, 80
+  size: 60, 9
+  orig: 60, 10
+  offset: 0, 1
+  index: -1

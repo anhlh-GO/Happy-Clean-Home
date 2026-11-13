@@ -1,0 +1,20 @@
+
+7001_03_10.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuoz@zpdd
+  rotate: false
+  xy: 160, 62
+  size: 106, 133
+  orig: 114, 142
+  offset: 2, 5
+  index: -1
+zhuozi
+  rotate: false
+  xy: 0, 0
+  size: 159, 195
+  orig: 160, 195
+  offset: 0, 0
+  index: -1

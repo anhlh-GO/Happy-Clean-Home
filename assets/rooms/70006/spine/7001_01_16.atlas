@@ -1,0 +1,69 @@
+
+7001_01_16.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ldc_hengzhe01
+  rotate: false
+  xy: 0, 0
+  size: 253, 8
+  orig: 253, 8
+  offset: 0, 0
+  index: -1
+ldc_hengzhe02
+  rotate: false
+  xy: 0, 9
+  size: 256, 6
+  orig: 256, 6
+  offset: 0, 0
+  index: -1
+ldc_hengzhe03
+  rotate: false
+  xy: 0, 20
+  size: 263, 5
+  orig: 263, 5
+  offset: 0, 0
+  index: -1
+ldc_kuang3
+  rotate: false
+  xy: 0, 96
+  size: 286, 27
+  orig: 286, 27
+  offset: 0, 0
+  index: -1
+ldc_kuangz1
+  rotate: false
+  xy: 0, 54
+  size: 267, 41
+  orig: 267, 41
+  offset: 0, 0
+  index: -1
+ldc_kuangz2
+  rotate: true
+  xy: 0, 26
+  size: 14, 260
+  orig: 14, 260
+  offset: 0, 0
+  index: -1
+ldc_shuzheyou
+  rotate: true
+  xy: 0, 16
+  size: 3, 264
+  orig: 3, 264
+  offset: 0, 0
+  index: -1
+ldc_shuzhezuo
+  rotate: true
+  xy: 0, 124
+  size: 3, 329
+  orig: 3, 329
+  offset: 0, 0
+  index: -1
+ldc_zhongjiankuangkaung
+  rotate: true
+  xy: 0, 41
+  size: 12, 301
+  orig: 12, 301
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Christmas_06.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F-box1
+  rotate: false
+  xy: 466, 361
+  size: 176, 78
+  orig: 176, 78
+  offset: 0, 0
+  index: -1
+F-box2
+  rotate: false
+  xy: 561, 198
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+F-box3
+  rotate: false
+  xy: 561, 99
+  size: 146, 98
+  orig: 146, 98
+  offset: 0, 0
+  index: -1
+F-tree
+  rotate: true
+  xy: 1, 170
+  size: 269, 464
+  orig: 269, 464
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 1, 1
+  size: 168, 559
+  orig: 168, 559
+  offset: 0, 0
+  index: -1
+yz@zpdd
+  rotate: true
+  xy: 466, 285
+  size: 75, 30
+  orig: 77, 31
+  offset: 0, 0
+  index: -1

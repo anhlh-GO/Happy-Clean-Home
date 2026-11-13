@@ -1,0 +1,97 @@
+
+7001_02_19.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biandeng
+  rotate: true
+  xy: 0, 42
+  size: 36, 139
+  orig: 36, 139
+  offset: 0, 0
+  index: -1
+biandeng@zpdd
+  rotate: false
+  xy: 484, 410
+  size: 24, 96
+  orig: 26, 101
+  offset: 0, 4
+  index: -1
+bz
+  rotate: false
+  xy: 484, 395
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+qianzhiwuzuo
+  rotate: true
+  xy: 262, 29
+  size: 137, 234
+  orig: 137, 234
+  offset: 0, 0
+  index: -1
+qianzhiwuzuo@zpdd
+  rotate: false
+  xy: 56, 0
+  size: 46, 41
+  orig: 49, 47
+  offset: 0, 4
+  index: -1
+shafazhuangshi01
+  rotate: false
+  xy: 262, 173
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shafazhuangshi02
+  rotate: false
+  xy: 140, 69
+  size: 35, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+shafazhuangshi03
+  rotate: true
+  xy: 0, 1
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+shafazhuangshi@zpdd
+  rotate: true
+  xy: 143, 79
+  size: 35, 40
+  orig: 45, 44
+  offset: 0, 2
+  index: -1
+yzq
+  rotate: true
+  xy: 357, 167
+  size: 339, 126
+  orig: 339, 126
+  offset: 0, 0
+  index: -1
+yzq2
+  rotate: false
+  xy: 143, 201
+  size: 213, 305
+  orig: 213, 305
+  offset: 0, 0
+  index: -1
+yzq2q
+  rotate: false
+  xy: 0, 79
+  size: 142, 427
+  orig: 142, 427
+  offset: 0, 0
+  index: -1
+zhiwuqian@zpdd
+  rotate: false
+  xy: 143, 115
+  size: 118, 85
+  orig: 120, 88
+  offset: 0, 0
+  index: -1

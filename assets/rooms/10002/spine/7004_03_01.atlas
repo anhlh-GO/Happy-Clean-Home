@@ -1,0 +1,90 @@
+
+7004_03_01.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_1
+  rotate: true
+  xy: 1, 9
+  size: 91, 656
+  orig: 91, 656
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 1467, 38
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: false
+  xy: 658, 8
+  size: 480, 92
+  orig: 480, 92
+  offset: 0, 0
+  index: -1
+3_4
+  rotate: true
+  xy: 987, 200
+  size: 47, 444
+  orig: 47, 444
+  offset: 0, 0
+  index: -1
+3_5
+  rotate: true
+  xy: 691, 102
+  size: 57, 442
+  orig: 57, 442
+  offset: 0, 0
+  index: -1
+3_6
+  rotate: true
+  xy: 691, 160
+  size: 87, 295
+  orig: 111, 305
+  offset: 0, 7
+  index: -1
+3_7
+  rotate: true
+  xy: 1134, 102
+  size: 66, 292
+  orig: 96, 307
+  offset: 26, 10
+  index: -1
+3_8
+  rotate: false
+  xy: 987, 169
+  size: 535, 30
+  orig: 535, 30
+  offset: 0, 0
+  index: -1
+3_9
+  rotate: true
+  xy: 1340, 48
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+3_@zpdd
+  rotate: false
+  xy: 1, 101
+  size: 689, 146
+  orig: 691, 147
+  offset: 1, 1
+  index: -1
+3_zzy1
+  rotate: false
+  xy: 1139, 1
+  size: 200, 100
+  orig: 202, 100
+  offset: 1, 0
+  index: -1
+3_zzy2
+  rotate: false
+  xy: 1649, 20
+  size: 309, 227
+  orig: 309, 228
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+7001_02_2.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam01
+  rotate: true
+  xy: 1, 816
+  size: 29, 136
+  orig: 29, 136
+  offset: 0, 0
+  index: -1
+beam02
+  rotate: true
+  xy: 1, 735
+  size: 38, 424
+  orig: 38, 424
+  offset: 0, 0
+  index: -1
+beam03
+  rotate: false
+  xy: 922, 177
+  size: 63, 541
+  orig: 63, 541
+  offset: 0, 0
+  index: -1
+beam04
+  rotate: false
+  xy: 789, 182
+  size: 67, 536
+  orig: 67, 536
+  offset: 0, 0
+  index: -1
+beam05
+  rotate: false
+  xy: 857, 180
+  size: 64, 538
+  orig: 64, 538
+  offset: 0, 0
+  index: -1
+beam06
+  rotate: true
+  xy: 1, 1
+  size: 60, 542
+  orig: 60, 542
+  offset: 0, 0
+  index: -1
+beam07
+  rotate: true
+  xy: 1, 301
+  size: 58, 548
+  orig: 58, 548
+  offset: 0, 0
+  index: -1
+beam08
+  rotate: true
+  xy: 426, 719
+  size: 54, 557
+  orig: 54, 557
+  offset: 0, 0
+  index: -1
+beam09
+  rotate: true
+  xy: 1, 182
+  size: 59, 570
+  orig: 59, 570
+  offset: 0, 0
+  index: -1
+beam10
+  rotate: true
+  xy: 1, 122
+  size: 59, 593
+  orig: 59, 593
+  offset: 0, 0
+  index: -1
+beam11
+  rotate: true
+  xy: 1, 62
+  size: 59, 619
+  orig: 59, 619
+  offset: 0, 0
+  index: -1
+beam12
+  rotate: true
+  xy: 1, 242
+  size: 58, 648
+  orig: 58, 648
+  offset: 0, 0
+  index: -1
+beam13
+  rotate: true
+  xy: 1, 360
+  size: 57, 679
+  orig: 57, 679
+  offset: 0, 0
+  index: -1
+beam14
+  rotate: true
+  xy: 1, 418
+  size: 55, 713
+  orig: 55, 713
+  offset: 0, 0
+  index: -1
+beam15
+  rotate: true
+  xy: 1, 474
+  size: 54, 749
+  orig: 54, 749
+  offset: 0, 0
+  index: -1
+beam16
+  rotate: true
+  xy: 1, 529
+  size: 53, 787
+  orig: 53, 787
+  offset: 0, 0
+  index: -1
+beam17
+  rotate: true
+  xy: 1, 583
+  size: 49, 782
+  orig: 49, 782
+  offset: 0, 0
+  index: -1
+beam18
+  rotate: true
+  xy: 1, 633
+  size: 44, 729
+  orig: 44, 729
+  offset: 0, 0
+  index: -1
+beam19
+  rotate: true
+  xy: 1, 678
+  size: 40, 680
+  orig: 40, 680
+  offset: 0, 0
+  index: -1
+beam20
+  rotate: true
+  xy: 1, 774
+  size: 37, 638
+  orig: 37, 638
+  offset: 0, 0
+  index: -1
+beam21
+  rotate: true
+  xy: 138, 812
+  size: 33, 601
+  orig: 33, 601
+  offset: 0, 0
+  index: -1

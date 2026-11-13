@@ -1,0 +1,13 @@
+
+7004_03_15.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 1, 1
+  size: 129, 321
+  orig: 129, 321
+  offset: 0, 0
+  index: -1

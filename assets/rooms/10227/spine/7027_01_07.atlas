@@ -1,0 +1,20 @@
+
+7027_01_07.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui
+  rotate: false
+  xy: 0, 0
+  size: 957, 652
+  orig: 1072, 881
+  offset: 104, 0
+  index: -1
+sss
+  rotate: false
+  xy: 958, 0
+  size: 957, 652
+  orig: 1072, 881
+  offset: 104, 0
+  index: -1

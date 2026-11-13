@@ -1,0 +1,27 @@
+
+RoomAsmr_02_02.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaf12
+  rotate: false
+  xy: 1, 92
+  size: 675, 157
+  orig: 675, 157
+  offset: 0, 0
+  index: -1
+leaf8
+  rotate: false
+  xy: 677, 72
+  size: 306, 177
+  orig: 306, 177
+  offset: 0, 0
+  index: -1
+leaf9
+  rotate: false
+  xy: 1, 1
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+picture.webp
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 41, 6
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+hua1@zpdd
+  rotate: false
+  xy: 0, 0
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 41, 51
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+hua2@zpdd
+  rotate: false
+  xy: 0, 48
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+7004_06_09.webp
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_9_1
+  rotate: false
+  xy: 1, 15
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+6_9_2
+  rotate: true
+  xy: 1, 1
+  size: 13, 58
+  orig: 13, 58
+  offset: 0, 0
+  index: -1
+6_9_yy@zpdd
+  rotate: false
+  xy: 60, 7
+  size: 16, 7
+  orig: 18, 9
+  offset: 1, 1
+  index: -1

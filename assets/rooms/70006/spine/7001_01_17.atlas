@@ -1,0 +1,62 @@
+
+7001_01_17.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+safazhen
+  rotate: false
+  xy: 0, 72
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1
+safazhen@zpdd
+  rotate: true
+  xy: 196, 129
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+shafa
+  rotate: false
+  xy: 0, 139
+  size: 195, 93
+  orig: 195, 93
+  offset: 0, 0
+  index: -1
+shafa@zpdd
+  rotate: false
+  xy: 0, 23
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+shafabaohzen02
+  rotate: true
+  xy: 112, 72
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+shafabaozhen01
+  rotate: false
+  xy: 199, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yizi1
+  rotate: false
+  xy: 127, 0
+  size: 71, 58
+  orig: 72, 59
+  offset: 0, 1
+  index: -1
+yizi2
+  rotate: false
+  xy: 172, 59
+  size: 80, 69
+  orig: 82, 69
+  offset: 1, 0
+  index: -1

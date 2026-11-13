@@ -1,0 +1,62 @@
+
+Christmas_05.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 74, 111
+  size: 54, 314
+  orig: 54, 314
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 389, 111
+  size: 54, 314
+  orig: 54, 314
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 74, 56
+  size: 54, 314
+  orig: 54, 314
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 389, 56
+  size: 54, 314
+  orig: 54, 314
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1, 1
+  size: 54, 314
+  orig: 54, 314
+  offset: 0, 0
+  index: -1
+dt
+  rotate: false
+  xy: 1, 166
+  size: 827, 298
+  orig: 846, 298
+  offset: 19, 0
+  index: -1
+dtyz@zpdd
+  rotate: true
+  xy: 829, 51
+  size: 413, 144
+  orig: 425, 151
+  offset: 12, 7
+  index: -1
+q
+  rotate: true
+  xy: 1, 94
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1

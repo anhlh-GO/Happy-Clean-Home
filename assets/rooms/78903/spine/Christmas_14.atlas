@@ -1,0 +1,62 @@
+
+Christmas_14.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 103, 193
+  size: 53, 51
+  orig: 54, 52
+  offset: 1, 0
+  index: -1
+c2
+  rotate: true
+  xy: 157, 187
+  size: 57, 61
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 219, 178
+  size: 88, 66
+  orig: 88, 67
+  offset: 0, 1
+  index: -1
+d2
+  rotate: false
+  xy: 308, 160
+  size: 100, 84
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 1, 200
+  size: 44, 46
+  orig: 44, 47
+  offset: 0, 1
+  index: -1
+h2
+  rotate: true
+  xy: 48, 197
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 212, 1
+  size: 158, 206
+  orig: 158, 206
+  offset: 0, 0
+  index: -1
+yz2
+  rotate: true
+  xy: 1, 76
+  size: 110, 210
+  orig: 110, 210
+  offset: 0, 0
+  index: -1

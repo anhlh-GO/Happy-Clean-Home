@@ -1,0 +1,55 @@
+
+Christmas_07.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baijan_1
+  rotate: true
+  xy: 154, 7
+  size: 18, 68
+  orig: 18, 68
+  offset: 0, 0
+  index: -1
+baijan_2
+  rotate: true
+  xy: 194, 80
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+baijan_3
+  rotate: false
+  xy: 62, 6
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+baijan_4
+  rotate: false
+  xy: 236, 7
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+baijan_5
+  rotate: true
+  xy: 154, 26
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+baijan_6
+  rotate: true
+  xy: 1, 1
+  size: 125, 60
+  orig: 125, 60
+  offset: 0, 0
+  index: -1
+baijan_yz@zpdd
+  rotate: false
+  xy: 62, 74
+  size: 131, 52
+  orig: 132, 57
+  offset: 1, 2
+  index: -1

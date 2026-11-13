@@ -1,0 +1,20 @@
+
+7027_03_08.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F@jx
+  rotate: false
+  xy: 0, 12
+  size: 297, 169
+  orig: 297, 169
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 298, 0
+  size: 181, 98
+  orig: 181, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Happy Clean Home</title>
+<style>
+  :root { --bg: #14131c; --card: #ffffff; --ink: #2b2140; --green: #3fcf4a; }
+  html, body { margin: 0; height: 100%; background: var(--bg); overflow: hidden; touch-action: none; -webkit-user-select: none; user-select: none; }
+  body { display: flex; align-items: center; justify-content: center; font-family: "Arial Rounded MT Bold", "Trebuchet MS", system-ui, sans-serif; }
+  #wrap { position: relative; overflow: hidden; }
+  canvas { display: block; touch-action: none; }
+  .ov { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; flex-direction: column; z-index: 20; background: rgba(10, 8, 20, .6); }
+  .ov.on { display: flex; }
+  .btn { border: 0; font: inherit; font-size: 22px; color: #fff; padding: 12px 34px; border-radius: 40px; background: var(--green); box-shadow: 0 6px 0 #23902b; cursor: pointer; margin: 6px; min-width: 150px; }
+  .btn.blue { background: #3c9cf2; box-shadow: 0 6px 0 #2266b8; }
+  .btn.grey { background: #8f8aa8; box-shadow: 0 6px 0 #625d7c; }
+  .btn.red { background: #f0554f; box-shadow: 0 6px 0 #b8322d; }
+  .btn:active { transform: translateY(4px); box-shadow: none; }
+  .card { background: var(--card); border-radius: 28px; padding: 24px 20px 18px; width: min(84%, 400px); text-align: center; color: var(--ink); box-shadow: 0 16px 40px rgba(0,0,0,.35); }
+  .card h2 { margin: 4px 0 10px; font-size: 26px; }
+  .card p { margin: 0 0 16px; font-size: 16px; line-height: 1.35; }
+  #asmrBack { position: absolute; left: 6px; top: 6px; width: 34px; height: 34px; border-radius: 50%; border: 0; background: rgba(0,0,0,.35); color: #fff; font-size: 18px; display: none; cursor: pointer; z-index: 6; }
+  #toast { position: absolute; left: 50%; top: 22%; transform: translateX(-50%); background: rgba(30, 20, 60, .88); color: #fff; padding: 10px 18px; border-radius: 16px; font-size: 16px; z-index: 30; display: none; text-align: center; max-width: 80%; }
+  .grid { display: grid; grid-template-columns: repeat(4, 56px); gap: 10px; justify-content: center; margin: 8px 0 14px; }
+  .lv { width: 56px; height: 56px; border-radius: 16px; border: 0; font: inherit; font-size: 22px; color: #fff; background: #4a9df5; box-shadow: 0 4px 0 #2b6cc0; cursor: pointer; }
+  .seg { display: inline-flex; border-radius: 14px; overflow: hidden; border: 2px solid #4a9df5; margin-bottom: 8px; }
+  .seg button { border: 0; font: inherit; padding: 8px 14px; background: #fff; color: #2b6cc0; cursor: pointer; font-size: 15px; }
+  .seg button.on { background: #4a9df5; color: #fff; }
+  .small { font-size: 13px !important; color: #776 !important; }
+  #complete .card img { width: 70%; margin-top: -60px; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="cv"></canvas>
+  <button id="asmrBack" title="Exit">✕</button>
+  <div id="toast"></div>
+  <div id="settings" class="ov"><div class="card">
+    <h2>Settings</h2>
+    <p class="small">ASMR nodes use level group (the original picks one by A/B test)</p>
+    <div class="seg"><button id="segA">A: 1–6</button><button id="segB">B: 7, 8, 3–6</button></div>
+    <p class="small">Play any ASMR minigame</p>
+    <div class="grid" id="lvGrid"></div>
+    <button class="btn grey" id="sClose">Close</button><br>
+    <button class="btn red" id="sReset" style="font-size:15px;min-width:0;padding:8px 16px">Reset progress</button>
+  </div></div>
+  <div id="complete" class="ov"><div class="card"><img src="assets/img/ui_flushgame_title.webp" alt=""><h2>Clean!</h2><p id="cText"></p><button class="btn" id="cNext">OK</button></div></div>
+  <div id="confirm" class="ov"><div class="card"><p id="qText"></p><button class="btn grey" id="qNo">Cancel</button><button class="btn blue" id="qYes">OK</button></div></div>
+</div>
+<script src="vendor/spine-canvas.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/fx.js"></script>
+<script src="js/wash.js"></script>
+<script src="js/game.js"></script>
+<script src="js/roomview.js"></script>
+<script src="js/map.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/home.js"></script>
+<script>
+(async function () {
+  const $ = (id) => document.getElementById(id);
+  const cv = $('cv'), wrap = $('wrap');
+  E.onResize = () => { wrap.style.width = cv.style.width; wrap.style.height = cv.style.height; };
+  E.init(cv);
+  const show = (id, on) => $(id).classList.toggle('on', !!on);
+  const game = new Game();
+  const app = new HomeApp();
+  window.game = game; window.app = app;
+  let toastT = 0;
+  // ---- loading screen (UILoading) first, so the player never sees a blank page ----
+  const ui0 = new HomeUI(app);
+  E.uiMeta = await fetch('assets/ui/meta.json').then((r) => r.json());
+  ui0.sc = await fetch('assets/ui/uiscenes.json').then((r) => r.json());
+  await Promise.all(['ui_home_login_bg_1', 'UI_Home_Login_001', 'ui_home_login_slider_bg', 'ui_home_login_slider_top'].map((n) => E.loadImage(n, 'assets/ui/' + n + '.webp')));
+  const L = ui0.showLoading();
+  let shown = 0, target = 0.05;
+  const loadUpd = (dt) => { shown += (target - shown) * Math.min(1, dt * 6); ui0.setLoading(shown); };
+  E.update = loadUpd;
+  E.overlays = [(ctx) => { L.update(); L.layoutTree(); E.drawTree(ctx, L); ctx.setTransform(1, 0, 0, 1, 0, 0); }];
+  const UI = (window.UI = {
+    modal: false,
+    async play(id) {
+      try { await game.startLevel(id); } catch (e) { console.error(e); }
+      E.update = (dt) => game.update(dt);
+      E.onPointerDown = (x, y) => app.pointerDown(x, y);
+      UI.modal = false; $('asmrBack').style.display = 'block';
+    },
+    showMenu() { $('asmrBack').style.display = 'none'; if (game.onQuit) { const f = game.onQuit; game.onQuit = game.onFinish = null; f(); } },
+    showComplete(id) {
+      $('asmrBack').style.display = 'none';
+      $('cText').textContent = 'Minigame ' + id + ' done.'; show('complete', 1); UI.modal = true;
+      $('cNext').onclick = () => { show('complete', 0); UI.modal = false; app.backFromAsmr(); };
+    },
+    confirm(text, yes, no) {
+      UI.modal = true; $('qText').textContent = text; show('confirm', 1);
+      $('qYes').onclick = () => { show('confirm', 0); UI.modal = false; yes && yes(); };
+      $('qNo').onclick = () => { show('confirm', 0); UI.modal = false; no && no(); };
+    },
+    setMode(m) { $('asmrBack').style.display = m === 'asmr' ? 'block' : 'none'; },
+    toast(m) { const t = $('toast'); t.textContent = m; t.style.display = 'block'; clearTimeout(toastT); toastT = setTimeout(() => (t.style.display = 'none'), 2200); },
+    openSettings() {
+      UI.modal = true; show('settings', 1);
+      const seg = () => { $('segA').classList.toggle('on', app.prog.asmr !== 'B'); $('segB').classList.toggle('on', app.prog.asmr === 'B'); };
+      seg();
+      $('segA').onclick = () => { app.prog.asmr = 'A'; app.save(); seg(); };
+      $('segB').onclick = () => { app.prog.asmr = 'B'; app.save(); seg(); };
+      const g = $('lvGrid'); g.innerHTML = '';
+      for (let i = 1; i <= 8; i++) { const b = document.createElement('button'); b.className = 'lv'; b.textContent = i; b.onclick = () => { show('settings', 0); UI.modal = false; app.playAsmr(i, null, null); game.onFinish = null; }; g.appendChild(b); }
+    },
+  });
+  $('sClose').onclick = () => { show('settings', 0); UI.modal = false; };
+  $('sReset').onclick = () => { UI.confirm('Reset all home progress?', () => { localStorage.removeItem('happyclean.home.v1'); location.reload(); }); };
+  $('asmrBack').onclick = () => {
+    if (game.wash) game.wash.setWorkStopState();
+    UI.confirm(game.text('flush_tips_skip'), () => { E.audio.stopAll(); game.exitGame(true); }, () => { if (game.wash && game.wash.step && !game.wash.finished) game.wash.setWorkState(); });
+  };
+  await game.boot();
+  E.update = loadUpd;
+  target = 0.4;
+  await app.boot(game, (p) => (target = p));
+  target = 1;
+  await E.wait(0.5);
+  E.update = (dt) => app.update(dt);
+  const q = new URLSearchParams(location.search);
+  const first = q.get('room') ? parseInt(q.get('room'), 10) : app.prog.rooms[app.prog.cur] && app.roomAvailable(app.prog.cur) ? app.prog.cur : 0;
+  if (first) {
+    // keep the loading screen up while the first room loads
+    const sc = new RoomScene(app, first);
+    await sc.load((p) => (target = 1));
+    app.room = sc; app.prog.cur = first; app.save();
+    app.setScene('room'); app.updateHud();
+  } else app.showMap();
+  L.setActive(false);
+  window.addEventListener('pointerdown', async () => { E.audio.init(); await E.audio.decodeAll(); }, { once: true });
+})();
+</script>
+</body>
+</html>

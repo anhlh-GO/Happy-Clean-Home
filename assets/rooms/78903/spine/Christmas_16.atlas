@@ -1,0 +1,41 @@
+
+Christmas_16.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_1
+  rotate: true
+  xy: 1, 4
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+16_2
+  rotate: false
+  xy: 226, 154
+  size: 69, 89
+  orig: 69, 93
+  offset: 0, 2
+  index: -1
+16_3
+  rotate: false
+  xy: 127, 101
+  size: 98, 142
+  orig: 100, 142
+  offset: 1, 0
+  index: -1
+16_4
+  rotate: false
+  xy: 1, 54
+  size: 125, 189
+  orig: 125, 189
+  offset: 0, 0
+  index: -1
+16_yz
+  rotate: true
+  xy: 127, 1
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1

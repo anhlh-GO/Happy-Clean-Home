@@ -1,0 +1,90 @@
+
+7001_03_7.webp
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhen01
+  rotate: false
+  xy: 779, 323
+  size: 160, 84
+  orig: 160, 84
+  offset: 0, 0
+  index: -1
+baozhen02
+  rotate: false
+  xy: 373, 337
+  size: 132, 70
+  orig: 132, 70
+  offset: 0, 0
+  index: -1
+baozhen02@zpdd
+  rotate: false
+  xy: 1, 370
+  size: 74, 37
+  orig: 75, 41
+  offset: 0, 1
+  index: -1
+baozhen03
+  rotate: false
+  xy: 1, 264
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+baozhen03@zpdd
+  rotate: false
+  xy: 298, 351
+  size: 74, 56
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+baozhen04
+  rotate: false
+  xy: 506, 326
+  size: 123, 81
+  orig: 123, 82
+  offset: 0, 1
+  index: -1
+baozhen04@zpdd
+  rotate: false
+  xy: 234, 360
+  size: 63, 47
+  orig: 64, 51
+  offset: 0, 2
+  index: -1
+baozhen05
+  rotate: false
+  xy: 630, 325
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+baozhen05@zpdd
+  rotate: false
+  xy: 157, 361
+  size: 76, 46
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+baozhen@zpdd
+  rotate: false
+  xy: 76, 364
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+beizi
+  rotate: false
+  xy: 435, 1
+  size: 552, 321
+  orig: 552, 325
+  offset: 0, 0
+  index: -1
+beizi@zpdd
+  rotate: false
+  xy: 143, 143
+  size: 291, 193
+  orig: 291, 193
+  offset: 0, 0
+  index: -1

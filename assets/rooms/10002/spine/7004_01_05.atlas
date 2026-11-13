@@ -1,0 +1,48 @@
+
+7004_01_05.webp
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+carpet
+  rotate: false
+  xy: 1, 55
+  size: 656, 171
+  orig: 656, 171
+  offset: 0, 0
+  index: -1
+carpet _roll_s
+  rotate: true
+  xy: 658, 178
+  size: 48, 47
+  orig: 58, 61
+  offset: 3, 7
+  index: -1
+carpet_roll01
+  rotate: true
+  xy: 202, 11
+  size: 43, 170
+  orig: 43, 170
+  offset: 0, 0
+  index: -1
+carpet_roll02
+  rotate: true
+  xy: 373, 11
+  size: 43, 170
+  orig: 43, 170
+  offset: 0, 0
+  index: -1
+carpet_roll03
+  rotate: true
+  xy: 544, 11
+  size: 43, 170
+  orig: 43, 170
+  offset: 0, 0
+  index: -1
+carpet_y
+  rotate: false
+  xy: 1, 1
+  size: 200, 53
+  orig: 200, 53
+  offset: 0, 0
+  index: -1

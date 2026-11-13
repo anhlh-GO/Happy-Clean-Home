@@ -1,0 +1,20 @@
+
+Spray.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spray
+  rotate: false
+  xy: 647, 177
+  size: 150, 399
+  orig: 150, 399
+  offset: 0, 0
+  index: -1
+potion_atomizing
+  rotate: false
+  xy: 1, 1
+  size: 645, 575
+  orig: 645, 575
+  offset: 0, 0
+  index: -1

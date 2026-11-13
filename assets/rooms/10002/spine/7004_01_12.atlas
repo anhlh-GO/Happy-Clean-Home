@@ -1,0 +1,55 @@
+
+7004_01_12.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h
+  rotate: false
+  xy: 111, 10
+  size: 106, 88
+  orig: 106, 89
+  offset: 0, 1
+  index: -1
+h1
+  rotate: false
+  xy: 1, 16
+  size: 58, 58
+  orig: 58, 59
+  offset: 0, 1
+  index: -1
+h2
+  rotate: true
+  xy: 218, 1
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+pen
+  rotate: true
+  xy: 60, 3
+  size: 53, 43
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 60, 57
+  size: 44, 17
+  orig: 44, 28
+  offset: 0, 11
+  index: -1
+yy1_@zpdd
+  rotate: true
+  xy: 218, 49
+  size: 49, 31
+  orig: 54, 36
+  offset: 3, 2
+  index: -1
+yy2_@zpdd
+  rotate: false
+  xy: 1, 75
+  size: 109, 23
+  orig: 113, 25
+  offset: 2, 1
+  index: -1

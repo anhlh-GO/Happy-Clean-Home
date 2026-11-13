@@ -1,0 +1,69 @@
+
+7004old03.webp
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-_zhiwu3
+  rotate: false
+  xy: 1275, 6
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+4_langan
+  rotate: false
+  xy: 1104, 25
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+4_shitou1
+  rotate: true
+  xy: 1426, 36
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+4_shitou2
+  rotate: true
+  xy: 1366, 1
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+4_zhiwu
+  rotate: false
+  xy: 1479, 27
+  size: 127, 225
+  orig: 127, 225
+  offset: 0, 0
+  index: -1
+4_zhiwu2
+  rotate: false
+  xy: 1, 45
+  size: 527, 207
+  orig: 527, 207
+  offset: 0, 0
+  index: -1
+4_zhiwu4
+  rotate: false
+  xy: 1104, 104
+  size: 374, 148
+  orig: 374, 148
+  offset: 0, 0
+  index: -1
+4_zhiwu5
+  rotate: false
+  xy: 832, 35
+  size: 271, 217
+  orig: 271, 217
+  offset: 0, 0
+  index: -1
+4_zhiwu6
+  rotate: false
+  xy: 529, 14
+  size: 302, 238
+  orig: 302, 238
+  offset: 0, 0
+  index: -1

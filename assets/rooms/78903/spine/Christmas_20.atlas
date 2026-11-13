@@ -1,0 +1,34 @@
+
+Christmas_20.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l
+  rotate: true
+  xy: 120, 55
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 120, 5
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+xrueren
+  rotate: false
+  xy: 227, 44
+  size: 55, 60
+  orig: 56, 60
+  offset: 1, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 1, 1
+  size: 118, 103
+  orig: 121, 106
+  offset: 2, 2
+  index: -1

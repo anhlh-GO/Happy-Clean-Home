@@ -1,0 +1,146 @@
+
+Christmas_17.webp
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bell01
+  rotate: false
+  xy: 72, 46
+  size: 21, 26
+  orig: 22, 26
+  offset: 1, 0
+  index: -1
+bell02
+  rotate: true
+  xy: 1, 37
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+bell03
+  rotate: false
+  xy: 1, 70
+  size: 35, 49
+  orig: 36, 49
+  offset: 1, 0
+  index: -1
+bell04
+  rotate: false
+  xy: 104, 98
+  size: 23, 21
+  orig: 24, 23
+  offset: 0, 1
+  index: -1
+bell05
+  rotate: true
+  xy: 58, 6
+  size: 20, 28
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+bell06
+  rotate: true
+  xy: 94, 60
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+bell07
+  rotate: false
+  xy: 110, 24
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bell08
+  rotate: true
+  xy: 37, 95
+  size: 24, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+bell09
+  rotate: true
+  xy: 75, 98
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+bell10
+  rotate: false
+  xy: 1, 14
+  size: 21, 22
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+bell11
+  rotate: true
+  xy: 102, 81
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+bell12
+  rotate: false
+  xy: 108, 1
+  size: 18, 22
+  orig: 18, 23
+  offset: 0, 1
+  index: -1
+bell13
+  rotate: false
+  xy: 36, 16
+  size: 21, 26
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+bell14
+  rotate: true
+  xy: 102, 73
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+bell15
+  rotate: true
+  xy: 72, 27
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+bell16
+  rotate: false
+  xy: 87, 6
+  size: 20, 20
+  orig: 20, 23
+  offset: 0, 1
+  index: -1
+bell17
+  rotate: true
+  xy: 71, 73
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+bell18
+  rotate: true
+  xy: 94, 51
+  size: 8, 20
+  orig: 9, 21
+  offset: 0, 1
+  index: -1
+bell19
+  rotate: true
+  xy: 37, 72
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+bell20
+  rotate: true
+  xy: 36, 43
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1

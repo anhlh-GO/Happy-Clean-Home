@@ -1,0 +1,335 @@
+
+Christmas_24.webp
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jewelry01
+  rotate: true
+  xy: 206, 117
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+jewelry02
+  rotate: false
+  xy: 246, 159
+  size: 20, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+jewelry03
+  rotate: false
+  xy: 230, 189
+  size: 22, 33
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+jewelry04
+  rotate: true
+  xy: 220, 5
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+jewelry05
+  rotate: true
+  xy: 66, 177
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+jewelry06
+  rotate: false
+  xy: 66, 196
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+jewelry07
+  rotate: true
+  xy: 1, 52
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+jewelry08
+  rotate: true
+  xy: 169, 221
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+jewelry09
+  rotate: false
+  xy: 218, 155
+  size: 27, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+jewelry10
+  rotate: true
+  xy: 56, 106
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+jewelry11
+  rotate: true
+  xy: 54, 65
+  size: 40, 65
+  orig: 41, 69
+  offset: 1, 0
+  index: -1
+jewelry12
+  rotate: false
+  xy: 260, 229
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+jewelry13
+  rotate: false
+  xy: 235, 39
+  size: 17, 24
+  orig: 18, 24
+  offset: 1, 0
+  index: -1
+jewelry14
+  rotate: true
+  xy: 234, 226
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+jewelry15
+  rotate: true
+  xy: 184, 148
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+jewelry16
+  rotate: true
+  xy: 256, 1
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+jewelry17
+  rotate: true
+  xy: 1, 106
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+jewelry18
+  rotate: true
+  xy: 120, 69
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+jewelry19
+  rotate: true
+  xy: 117, 106
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+jewelry20
+  rotate: false
+  xy: 59, 13
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+jewelry21
+  rotate: false
+  xy: 128, 180
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+jewelry22
+  rotate: true
+  xy: 158, 106
+  size: 27, 47
+  orig: 27, 49
+  offset: 0, 1
+  index: -1
+jewelry23
+  rotate: false
+  xy: 251, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jewelry24
+  rotate: false
+  xy: 253, 201
+  size: 22, 24
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+jewelry25
+  rotate: false
+  xy: 102, 205
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+jewelry26
+  rotate: false
+  xy: 162, 21
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+jewelry27
+  rotate: true
+  xy: 162, 1
+  size: 19, 28
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+jewelry28
+  rotate: false
+  xy: 160, 183
+  size: 36, 32
+  orig: 36, 33
+  offset: 0, 1
+  index: -1
+jewelry29
+  rotate: true
+  xy: 206, 27
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+jewelry30
+  rotate: true
+  xy: 191, 1
+  size: 19, 28
+  orig: 19, 30
+  offset: 0, 1
+  index: -1
+jewelry31
+  rotate: false
+  xy: 226, 87
+  size: 24, 29
+  orig: 24, 31
+  offset: 0, 1
+  index: -1
+jewelry32
+  rotate: false
+  xy: 177, 74
+  size: 48, 31
+  orig: 50, 32
+  offset: 1, 1
+  index: -1
+jewelry33
+  rotate: false
+  xy: 1, 4
+  size: 57, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+jewelry34
+  rotate: false
+  xy: 235, 64
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+jewelry35
+  rotate: false
+  xy: 253, 38
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+jewelry36
+  rotate: true
+  xy: 117, 15
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+jewelry37
+  rotate: false
+  xy: 256, 18
+  size: 16, 19
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+jewelry38
+  rotate: false
+  xy: 197, 185
+  size: 32, 35
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+jewelry39
+  rotate: true
+  xy: 103, 131
+  size: 47, 44
+  orig: 48, 44
+  offset: 1, 0
+  index: -1
+jewelry40
+  rotate: false
+  xy: 56, 130
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+jewelry41
+  rotate: true
+  xy: 203, 223
+  size: 32, 30
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+jewelry42
+  rotate: false
+  xy: 135, 216
+  size: 33, 39
+  orig: 34, 40
+  offset: 1, 0
+  index: -1
+jewelry43
+  rotate: false
+  xy: 54, 52
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jewelry44
+  rotate: false
+  xy: 148, 134
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+jewelry45
+  rotate: true
+  xy: 96, 179
+  size: 16, 31
+  orig: 16, 32
+  offset: 0, 1
+  index: -1
+jewelry46
+  rotate: true
+  xy: 1, 177
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+jewelry47
+  rotate: false
+  xy: 234, 127
+  size: 23, 27
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

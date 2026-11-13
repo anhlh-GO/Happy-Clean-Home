@@ -1,0 +1,76 @@
+
+7027_05_13.webp
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+douniu_04
+  rotate: false
+  xy: 51, 29
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_05
+  rotate: true
+  xy: 51, 0
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_06
+  rotate: false
+  xy: 80, 29
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_07
+  rotate: true
+  xy: 85, 0
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_08
+  rotate: false
+  xy: 109, 29
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_09
+  rotate: true
+  xy: 119, 0
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_10
+  rotate: false
+  xy: 138, 29
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_11
+  rotate: true
+  xy: 153, 0
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+douniu_12
+  rotate: false
+  xy: 167, 29
+  size: 28, 33
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+gou
+  rotate: false
+  xy: 0, 10
+  size: 50, 52
+  orig: 50, 59
+  offset: 0, 0
+  index: -1

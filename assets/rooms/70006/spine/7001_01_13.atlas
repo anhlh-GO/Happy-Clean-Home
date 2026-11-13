@@ -1,0 +1,20 @@
+
+7001_01_13.webp
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 0, 0
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+hua@zpdd
+  rotate: true
+  xy: 89, 11
+  size: 86, 51
+  orig: 94, 54
+  offset: 6, 1
+  index: -1
